@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719925165026",
+    "project_id": "statushub-2ad1c",
+    "storage_bucket": "statushub-2ad1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719925165026:android:26fd6e893794d3844817bb",
+        "android_client_info": {
+          "package_name": "com.statushub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD5kpNfT6rU_tjWhygs3qhNREUF9VB39o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

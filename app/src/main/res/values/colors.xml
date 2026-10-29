@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Launch screen color, matches the sunset app icon -->
+    <color name="brand_launch">#FFFF2E7E</color>
+    <color name="brand_background">#FFF5F7F8</color>
+    <color name="brand_background_dark">#FF0D1214</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Native ad card (night variants in values-night) -->
+    <color name="native_ad_surface">#FFFFFFFF</color>
+    <color name="native_ad_outline">#FFF3EBEE</color>
+    <color name="native_ad_title">#FF1F1A1C</color>
+    <color name="native_ad_body">#FF5E5458</color>
+</resources>

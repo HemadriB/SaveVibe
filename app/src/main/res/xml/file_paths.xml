@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- External storage path for WhatsApp status files -->
+    <external-path name="external_files" path="." />
+    <!-- WhatsApp status folder -->
+    <external-path name="whatsapp_status" path="Android/media/com.whatsapp/WhatsApp/Media/.Statuses" />
+    <!-- Alternative WhatsApp paths -->
+    <external-path name="whatsapp_media" path="WhatsApp/Media/.Statuses" />
+    <!-- External storage path for app saved files -->
+    <external-path name="external_download" path="Download/" />
+    <external-path name="external_pictures" path="Pictures/" />
+    <external-path name="external_movies" path="Movies/" />
+    <!-- Root external storage -->
+    <root-path name="root" path="." />
+</paths>

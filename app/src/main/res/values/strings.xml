@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name" translatable="false">SaveVibe</string>
+    <string name="share_target_label">Download with SaveVibe</string>
+    <string name="not_affiliated">SaveVibe is not affiliated with WhatsApp, Instagram or Meta.</string>
+    <string name="status_wrong_folder">That isn\'t the WhatsApp status folder. Tap \"Use this folder\" without changing folders.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_start">Start saving</string>
+    <string name="onboarding_later">Later</string>
+    <string name="onboarding_status_title">Save statuses\nyou love</string>
+    <string name="onboarding_status_description">Photos and videos from WhatsApp statuses you\'ve watched — saved to your gallery in one tap.</string>
+    <string name="onboarding_reels_title">Reels, videos\n&amp; stories</string>
+    <string name="onboarding_reels_description">Copy a link or tap Share → SaveVibe. Photos and videos are saved in HD, ready to repost.</string>
+    <string name="onboarding_setup_title">Unlock your statuses</string>
+    <string name="onboarding_setup_description">One quick step: Android keeps statuses you\'ve viewed in a private WhatsApp folder. Allow access once — it takes 5 seconds.</string>
+    <string name="onboarding_setup_done_title">You\'re all set!</string>
+    <string name="onboarding_setup_done_description">Statuses you view in WhatsApp now show up in SaveVibe automatically.</string>
+    <string name="onboarding_setup_no_whatsapp">WhatsApp isn\'t installed on this phone. You can still save Reels and videos from any link.</string>
+    <string name="onboarding_allow_source">Allow %1$s</string>
+    <string name="onboarding_source_unlocked">%1$s unlocked</string>
+    <string name="onboarding_allow_storage">Allow storage access</string>
+    <string name="onboarding_storage_granted">Storage access allowed</string>
+    <string name="onboarding_picker_hint">On the next screen, just tap this button, then \"Allow\".</string>
+    <string name="onboarding_picker_button">Use this folder</string>
+    <string name="onboarding_alerts">Tell me when new statuses arrive</string>
+
+    <!-- Settings menu -->
+    <string name="settings_more">More options</string>
+    <string name="settings_new_status_alerts">New status alerts</string>
+    <string name="settings_auto_save">Auto-save new statuses</string>
+    <string name="settings_share_app">Share SaveVibe</string>
+    <string name="settings_rate_app">Rate SaveVibe</string>
+    <string name="settings_language">App language</string>
+    <string name="settings_privacy_policy">Privacy policy</string>
+
+    <!-- Sharing -->
+    <string name="share_app_title">Share SaveVibe</string>
+    <string name="share_app_message">I save WhatsApp statuses and Reels with SaveVibe — free and fast: %1$s</string>
+    <string name="share_reward_granted">Thanks for sharing! No ads for the next 24 hours 🎉</string>
+
+    <!-- New status alerts -->
+    <string name="notification_channel_name">New statuses</string>
+    <string name="notification_channel_description">Tells you when new WhatsApp statuses are ready to save</string>
+    <string name="notification_new_statuses_text">Tap to view and save them before they disappear</string>
+    <plurals name="notification_new_statuses_title">
+        <item quantity="one">%1$d new status to save</item>
+        <item quantity="other">%1$d new statuses to save</item>
+    </plurals>
+    <plurals name="notification_auto_saved_title">
+        <item quantity="one">%1$d new status saved to your gallery</item>
+        <item quantity="other">%1$d new statuses saved to your gallery</item>
+    </plurals>
+
+    <!-- Widget -->
+    <string name="widget_label">SaveVibe statuses</string>
+    <string name="widget_description">See how many new statuses are waiting</string>
+    <string name="widget_subtitle">Tap to view &amp; save</string>
+    <string name="widget_no_new_statuses">No new statuses</string>
+    <plurals name="widget_new_statuses">
+        <item quantity="one">%1$d new status</item>
+        <item quantity="other">%1$d new statuses</item>
+    </plurals>
+</resources>

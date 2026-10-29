@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_target_label">SaveVibe-ல் download செய்</string>
+    <string name="not_affiliated">SaveVibe-க்கும் WhatsApp, Instagram அல்லது Meta-வுக்கும் எந்தத் தொடர்பும் இல்லை.</string>
+    <string name="status_wrong_folder">இது WhatsApp status folder இல்லை. Folder-ஐ மாற்றாமல் \"Use this folder\"-ஐ tap செய்யுங்கள்.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">தவிர்</string>
+    <string name="onboarding_next">அடுத்து</string>
+    <string name="onboarding_start">சேமிக்கத் தொடங்கு</string>
+    <string name="onboarding_later">பிறகு</string>
+    <string name="onboarding_status_title">பிடித்த status-களை\nசேமியுங்கள்</string>
+    <string name="onboarding_status_description">நீங்கள் பார்த்த WhatsApp status photo, video-க்களை ஒரே tap-ல் gallery-யில் சேமியுங்கள்.</string>
+    <string name="onboarding_reels_title">Reels, videos\n&amp; stories</string>
+    <string name="onboarding_reels_description">Link-ஐ copy செய்யுங்கள் அல்லது Share → SaveVibe tap செய்யுங்கள். Photo, video-க்கள் HD-யில் சேமிக்கப்படும், repost செய்யத் தயார்.</string>
+    <string name="onboarding_setup_title">உங்கள் status-களைத் திறங்கள்</string>
+    <string name="onboarding_setup_description">ஒரே ஒரு படி: நீங்கள் பார்த்த status-களை Android ஒரு private WhatsApp folder-ல் வைக்கிறது. ஒருமுறை அனுமதி கொடுங்கள் — 5 வினாடிதான் ஆகும்.</string>
+    <string name="onboarding_setup_done_title">எல்லாம் தயார்!</string>
+    <string name="onboarding_setup_done_description">WhatsApp-ல் நீங்கள் பார்க்கும் status-கள் இனி தானாகவே SaveVibe-ல் தோன்றும்.</string>
+    <string name="onboarding_setup_no_whatsapp">இந்த phone-ல் WhatsApp install செய்யப்படவில்லை. எந்த link-லிருந்தும் Reels, video-க்களை இன்னும் சேமிக்கலாம்.</string>
+    <string name="onboarding_allow_source">%1$s-ஐ அனுமதி</string>
+    <string name="onboarding_source_unlocked">%1$s திறக்கப்பட்டது</string>
+    <string name="onboarding_allow_storage">Storage அனுமதி கொடு</string>
+    <string name="onboarding_storage_granted">Storage அனுமதி கிடைத்தது</string>
+    <string name="onboarding_picker_hint">அடுத்த திரையில் இந்த button-ஐ tap செய்து, பிறகு \"Allow\" அழுத்துங்கள்.</string>
+    <string name="onboarding_picker_button">Use this folder</string>
+    <string name="onboarding_alerts">புதிய status வந்ததும் சொல்</string>
+
+    <!-- Settings menu -->
+    <string name="settings_more">மேலும் விருப்பங்கள்</string>
+    <string name="settings_new_status_alerts">புதிய status அறிவிப்புகள்</string>
+    <string name="settings_auto_save">புதிய status-களைத் தானாகச் சேமி</string>
+    <string name="settings_share_app">SaveVibe-ஐப் பகிர்</string>
+    <string name="settings_rate_app">SaveVibe-ஐ மதிப்பிடு</string>
+    <string name="settings_language">App மொழி</string>
+    <string name="settings_privacy_policy">தனியுரிமைக் கொள்கை</string>
+
+    <!-- Sharing -->
+    <string name="share_app_title">SaveVibe-ஐப் பகிர்</string>
+    <string name="share_app_message">நான் WhatsApp status, Reels-ஐ SaveVibe மூலம் சேமிக்கிறேன் — இலவசம், வேகம்: %1$s</string>
+    <string name="share_reward_granted">பகிர்ந்ததற்கு நன்றி! அடுத்த 24 மணி நேரம் விளம்பரம் இல்லை 🎉</string>
+
+    <!-- New status alerts -->
+    <string name="notification_channel_name">புதிய status-கள்</string>
+    <string name="notification_channel_description">புதிய WhatsApp status-கள் சேமிக்கத் தயாரானதும் உங்களுக்குச் சொல்லும்</string>
+    <string name="notification_new_statuses_text">மறைவதற்குள் பார்த்துச் சேமிக்க tap செய்யுங்கள்</string>
+    <plurals name="notification_new_statuses_title">
+        <item quantity="one">சேமிக்க %1$d புதிய status</item>
+        <item quantity="other">சேமிக்க %1$d புதிய status-கள்</item>
+    </plurals>
+    <plurals name="notification_auto_saved_title">
+        <item quantity="one">%1$d புதிய status gallery-யில் சேமிக்கப்பட்டது</item>
+        <item quantity="other">%1$d புதிய status-கள் gallery-யில் சேமிக்கப்பட்டன</item>
+    </plurals>
+
+    <!-- Widget -->
+    <string name="widget_label">SaveVibe status-கள்</string>
+    <string name="widget_description">எத்தனை புதிய status-கள் காத்திருக்கின்றன என்று பாருங்கள்</string>
+    <string name="widget_subtitle">பார்த்துச் சேமிக்க tap செய்யுங்கள்</string>
+    <string name="widget_no_new_statuses">புதிய status இல்லை</string>
+    <plurals name="widget_new_statuses">
+        <item quantity="one">%1$d புதிய status</item>
+        <item quantity="other">%1$d புதிய status-கள்</item>
+    </plurals>
+
+    <!-- Common -->
+    <string name="action_refresh">புதுப்பி</string>
+    <string name="action_open">திற</string>
+    <string name="action_share">பகிர்</string>
+    <string name="action_delete">நீக்கு</string>
+    <string name="action_back">பின்செல்</string>
+    <string name="action_whatsapp">WhatsApp</string>
+    <string name="label_photos">Photos</string>
+    <string name="label_videos">Videos</string>
+    <string name="label_all">அனைத்தும்</string>
+    <string name="label_photo">Photo</string>
+    <string name="label_video">Video</string>
+    <string name="label_saved">சேமித்தவை</string>
+
+    <!-- Home tabs -->
+    <string name="tab_status">Status</string>
+    <string name="tab_instagram">Instagram</string>
+    <string name="tab_videos">Videos</string>
+    <string name="tab_saved">சேமித்தவை</string>
+
+    <!-- Status tab -->
+    <string name="status_title">Status Saver</string>
+    <plurals name="status_subtitle_count">
+        <item quantity="one">%1$d status • சேமிக்க ⬇ tap செய்யுங்கள்</item>
+        <item quantity="other">%1$d status-கள் • சேமிக்க ⬇ tap செய்யுங்கள்</item>
+    </plurals>
+    <string name="status_subtitle_default">WhatsApp photo &amp; video-க்களைச் சேமியுங்கள்</string>
+    <string name="status_source_unlocked">%1$s status-கள் திறக்கப்பட்டன</string>
+    <string name="status_storage_needed_title">Storage அனுமதி தேவை</string>
+    <string name="status_storage_needed_message">நீங்கள் பார்த்த WhatsApp status-களைப் பார்க்கவும் சேமிக்கவும் storage அனுமதி கொடுங்கள்.</string>
+    <string name="status_grant_permission">அனுமதி கொடு</string>
+    <string name="status_empty_photos_title">இன்னும் photo status இல்லை</string>
+    <string name="status_empty_videos_title">இன்னும் video status இல்லை</string>
+    <string name="status_empty_message">WhatsApp-ஐத் திறந்து சில status-களைப் பாருங்கள், பிறகு திரும்ப வாருங்கள். அவை தானாகவே இங்கே தோன்றும்.</string>
+    <string name="status_open_whatsapp">WhatsApp-ஐத் திற</string>
+    <string name="status_saved_toast">உங்கள் SaveVibe album-ல் சேமிக்கப்பட்டது</string>
+    <string name="status_save_failed">Status-ஐச் சேமிக்க முடியவில்லை</string>
+    <string name="status_switcher_label">%1$s  %2$d</string>
+    <string name="status_also_show_source">%1$s status-களையும் காட்டு</string>
+    <string name="status_business_badge">Business</string>
+    <string name="status_unlock_title">உங்கள் status-களைத் திறங்கள்</string>
+    <string name="status_unlock_message">நீங்கள் பார்த்த status-களை Android ஒரு private WhatsApp folder-ல் வைக்கிறது. ஒருமுறை அனுமதி கொடுங்கள் — 5 வினாடிதான் ஆகும்.</string>
+    <string name="status_step_view">முதலில் WhatsApp-ல் ஒரு status-ஐப் பாருங்கள்</string>
+    <string name="status_step_tap">கீழே உள்ள button-ஐ tap செய்யுங்கள்</string>
+    <string name="status_step_allow">\"Use this folder\" → \"Allow\" tap செய்யுங்கள்</string>
+    <string name="status_allow_source">%1$s-ஐ அனுமதி</string>
+
+    <!-- Saved tab -->
+    <plurals name="saved_subtitle_count">
+        <item quantity="one">உங்கள் Gallery-யில் %1$d file</item>
+        <item quantity="other">உங்கள் Gallery-யில் %1$d files</item>
+    </plurals>
+    <string name="saved_empty_title">இன்னும் எதுவும் சேமிக்கவில்லை</string>
+    <string name="saved_empty_message">நீங்கள் சேமிக்கும் status-களும் download செய்யும் Instagram video-க்களும் இங்கே தோன்றும்.</string>
+    <string name="saved_item_meta">%1$s • %2$s</string>
+    <string name="saved_delete_failed">நீக்க முடியவில்லை. உங்கள் Gallery app-ல் இருந்து நீக்குங்கள்.</string>
+
+    <!-- Preview -->
+    <string name="preview_swipe_for_more">மேலும் பார்க்க swipe செய்யுங்கள்</string>
+    <string name="preview_position">%1$d / %2$d</string>
+    <string name="preview_save_to_gallery">Gallery-யில் சேமி</string>
+
+    <!-- Splash -->
+    <string name="splash_logo_description">SaveVibe logo</string>
+    <string name="splash_tagline">Status, Reels &amp; Story Saver</string>
+    <string name="splash_footer">சேமி • Repost • பகிர்</string>
+
+    <!-- Ad-free -->
+    <string name="adfree_content_description">விளம்பரமில்லா ஒரு மணி நேரம்</string>
+    <string name="adfree_no_video">இப்போது video இல்லை. சிறிது நேரம் கழித்து முயற்சிக்கவும்.</string>
+    <string name="adfree_title_active">விளம்பரம் இல்லை ✨</string>
+    <string name="adfree_title_offer">1 மணி நேரம் விளம்பரமின்றி</string>
+    <plurals name="adfree_minutes_left">
+        <item quantity="one">அடுத்த %1$d நிமிடம் விளம்பரம் இல்லை. மகிழுங்கள்!</item>
+        <item quantity="other">அடுத்த %1$d நிமிடங்கள் விளம்பரம் இல்லை. மகிழுங்கள்!</item>
+    </plurals>
+    <string name="adfree_offer_message">ஒரு சிறிய video பாருங்கள், அடுத்த ஒரு மணி நேரம் SaveVibe-ல் விளம்பரமே இருக்காது.</string>
+    <string name="adfree_watch_video">Video பார்</string>
+    <string name="adfree_privacy_settings">விளம்பர privacy அமைப்புகள்</string>
+    <string name="adfree_great">சூப்பர்</string>
+    <string name="adfree_not_now">இப்போது வேண்டாம்</string>
+    <string name="adfree_granted">1 மணி நேரம் விளம்பரம் இல்லை 🎉</string>
+
+    <!-- Media actions -->
+    <string name="media_no_app_to_open">இந்த file-ஐத் திறக்க app இல்லை</string>
+    <string name="media_share_via">இதன் மூலம் பகிர்</string>
+    <string name="media_whatsapp_not_installed">WhatsApp install செய்யப்படவில்லை</string>
+    <string name="download_error_web_page">இந்த URL ஒரு web page-ஐத் தருகிறது, video file இல்லை. நேரடி video link அல்லது Instagram link-ஐப் பயன்படுத்துங்கள்.</string>
+
+    <!-- Instagram -->
+    <string name="ig_logged_in_toast">Instagram-ல் login ஆனது</string>
+    <string name="ig_link_detected_toast">Instagram link கண்டறியப்பட்டது</string>
+    <string name="ig_header_title">Instagram Saver</string>
+    <string name="ig_header_subtitle_logged_in">Login ஆனது • stories திறக்கப்பட்டன</string>
+    <string name="ig_header_subtitle">Reels, posts, photos &amp; stories</string>
+    <string name="ig_logout">Logout</string>
+    <string name="ig_login">Login</string>
+    <string name="ig_paste_link_hint">Instagram link-ஐ இங்கே paste செய்யுங்கள்</string>
+    <string name="ig_cd_url">URL</string>
+    <string name="ig_cd_clear_link">Link-ஐ அழி</string>
+    <string name="ig_paste">Paste</string>
+    <string name="ig_download">Download</string>
+    <string name="ig_caption_copied">Caption copy ஆனது</string>
+    <string name="ig_stories">Stories</string>
+    <string name="ig_stories_hint">ஒருவரை tap செய்து அவரது stories-ஐப் பார்த்துச் சேமியுங்கள்</string>
+    <string name="ig_cd_refresh_stories">Stories-ஐப் புதுப்பி</string>
+    <string name="ig_search">தேடு</string>
+    <string name="ig_your_story">உங்கள் story</string>
+    <string name="ig_no_new_stories">நீங்கள் follow செய்பவர்களிடமிருந்து இப்போது புதிய stories இல்லை. யாரையும் கண்டுபிடிக்க தேடலைப் பயன்படுத்துங்கள்.</string>
+    <string name="ig_save_stories_title">Instagram stories-ஐச் சேமியுங்கள்</string>
+    <string name="ig_save_stories_description">நீங்கள் follow செய்பவர்களின் stories-ஐப் பார்த்து ஒரே tap-ல் சேமிக்க login செய்யுங்கள்</string>
+    <string name="ig_fetching_post">Post-ஐப் பெறுகிறது…</string>
+    <string name="ig_downloading_progress">%2$d-ல் %1$d download ஆகிறது</string>
+    <string name="ig_downloading">Download ஆகிறது…</string>
+    <string name="ig_percent">%1$d%%</string>
+    <string name="ig_cancel">ரத்து</string>
+    <string name="ig_video">Video</string>
+    <plurals name="ig_saved_to_gallery_count">
+        <item quantity="one">%1$d Gallery-யில் சேமிக்கப்பட்டது</item>
+        <item quantity="other">%1$d Gallery-யில் சேமிக்கப்பட்டன</item>
+    </plurals>
+    <string name="ig_saved_to_location">சேமித்த இடம்: %1$s</string>
+    <string name="ig_cd_saved">சேமிக்கப்பட்டது</string>
+    <string name="ig_share">பகிர்</string>
+    <string name="ig_caption">Caption</string>
+    <string name="ig_download_another">இன்னொன்றை download செய்</string>
+    <string name="ig_couldnt_download">Download செய்ய முடியவில்லை</string>
+    <string name="ig_login_to_instagram">Instagram-ல் login செய்</string>
+    <string name="ig_dismiss">மூடு</string>
+    <string name="ig_how_it_works">எப்படி வேலை செய்கிறது</string>
+    <string name="ig_howto_copy_title">Link-ஐ copy செய்</string>
+    <string name="ig_howto_copy_text">Instagram-ல் ••• அல்லது Share → Copy link tap செய்யுங்கள்</string>
+    <string name="ig_howto_back_title">திரும்ப வாருங்கள்</string>
+    <string name="ig_howto_back_text">Link தானாகவே நிரப்பப்படும் — அல்லது Share → SaveVibe பயன்படுத்துங்கள்</string>
+    <string name="ig_howto_download_text">Carousel-ன் எல்லா photo &amp; video-வும் உங்கள் Gallery-யில் சேமிக்கப்படும்</string>
+    <string name="ig_howto_private_title">Stories &amp; private posts</string>
+    <string name="ig_howto_private_logged_in">மேலே Stories-ல் ஒருவரை tap செய்யுங்கள், அல்லது எந்த username-ஐயும் தேடுங்கள்</string>
+    <string name="ig_howto_private_logged_out">அவற்றைத் திறக்க மேலே Login tap செய்யுங்கள்</string>
+    <string name="ig_disclaimer">SaveVibe-க்கும் Instagram அல்லது Meta-வுக்கும் தொடர்பு இல்லை. உங்களுக்குச் சொந்தமான அல்லது சேமிக்க அனுமதி உள்ள content-ஐ மட்டும் download செய்யுங்கள்.</string>
+    <string name="ig_error_paste_link">Instagram அல்லது video link-ஐ paste செய்யுங்கள்</string>
+    <string name="ig_error_invalid_url">தவறான URL. சரியான link-ஐ உள்ளிடுங்கள்</string>
+    <string name="ig_error_youtube">YouTube download ஆதரிக்கப்படவில்லை. Instagram link அல்லது நேரடி video link-ஐ முயற்சியுங்கள்.</string>
+    <string name="ig_error_use_videos_tab">இந்த tab Instagram-க்கானது. மற்ற sites-க்கு, link-ஐ Videos tab-ல் திறங்கள்.</string>
+    <string name="ig_error_download_failed">Download தோல்வியடைந்தது</string>
+    <string name="ig_error_load_stories">Stories-ஐ load செய்ய முடியவில்லை</string>
+    <string name="ig_error_search_failed">தேடல் தோல்வியடைந்தது</string>
+    <string name="ig_error_load_profile">Profile-ஐ load செய்ய முடியவில்லை</string>
+    <string name="ig_error_load_highlights">Highlights-ஐ load செய்ய முடியவில்லை</string>
+    <string name="ig_error_profile_photo">Profile photo-வைப் பெற முடியவில்லை</string>
+    <string name="ig_error_save">சேமிக்க முடியவில்லை: %1$s</string>
+    <string name="ig_error_share_link">இந்த share link-ஐத் திறக்க முடியவில்லை. Instagram-லிருந்து link-ஐ மீண்டும் copy செய்யுங்கள்.</string>
+    <string name="ig_error_unsupported_link">இந்த Instagram link ஆதரிக்கப்படவில்லை. Post, reel, video அல்லது story link-ஐப் பயன்படுத்துங்கள்.</string>
+    <string name="ig_error_invalid_link">தவறான Instagram link</string>
+    <string name="ig_error_private_or_deleted">இந்த post private அல்லது நீக்கப்பட்டது.</string>
+    <string name="ig_error_private_login">இந்த post private. நீங்கள் follow செய்யும் accounts-ன் posts-ஐ download செய்ய Instagram-ல் login செய்யுங்கள்.</string>
+    <string name="ig_error_not_returned">Instagram இந்த post-ஐத் தரவில்லை. அது private-ஆக இருக்கலாம், அல்லது Instagram downloads-ஐக் கட்டுப்படுத்துகிறது. Instagram-ல் login செய்து மீண்டும் முயற்சியுங்கள்.</string>
+    <string name="ig_error_login_stories">Stories-ஐ download செய்ய Instagram-ல் login செய்யுங்கள்.</string>
+    <string name="ig_error_user_not_found">@%1$s கிடைக்கவில்லை.</string>
+    <string name="ig_error_login_stories_highlights">Stories, highlights-ஐ download செய்ய Instagram-ல் login செய்யுங்கள்.</string>
+    <string name="ig_error_story_expired">இந்த story காலாவதியானது அல்லது உங்கள் account-க்குத் தெரியவில்லை.</string>
+    <string name="ig_error_story_no_media">இந்த story-ல் download செய்யக்கூடியது எதுவும் இல்லை.</string>
+    <string name="ig_error_login_see_stories">Stories-ஐப் பார்க்க Instagram-ல் login செய்யுங்கள்.</string>
+    <string name="ig_error_login_search">Accounts-ஐத் தேட Instagram-ல் login செய்யுங்கள்.</string>
+    <string name="ig_error_login_profiles">Profiles-ஐப் பார்க்க Instagram-ல் login செய்யுங்கள்.</string>
+    <string name="ig_error_profile_not_found">@%1$s கிடைக்கவில்லை.</string>
+    <string name="ig_error_login_profile_photos">Profile photos-ஐச் சேமிக்க Instagram-ல் login செய்யுங்கள்.</string>
+    <string name="ig_error_load_profile_photo">Profile photo-வை load செய்ய முடியவில்லை.</string>
+    <string name="ig_error_login_highlights">Highlights-ஐப் பார்க்க Instagram-ல் login செய்யுங்கள்.</string>
+    <string name="ig_error_load_highlights_dot">Highlights-ஐ load செய்ய முடியவில்லை.</string>
+    <string name="ig_error_load_stories_dot">Stories-ஐ load செய்ய முடியவில்லை.</string>
+    <string name="ig_error_search_failed_dot">தேடல் தோல்வியடைந்தது.</string>
+    <string name="ig_error_session_expired">உங்கள் Instagram session காலாவதியானது. மீண்டும் login செய்யுங்கள்.</string>
+    <string name="ig_error_slow_down">Instagram கொஞ்சம் மெதுவாகச் சொல்கிறது. சில நிமிடங்கள் காத்திருந்து மீண்டும் முயற்சியுங்கள்.</string>
+    <string name="ig_error_post_no_media">இந்த post-ல் download செய்யக்கூடிய photo அல்லது video இல்லை.</string>
+    <string name="ig_error_timeout">Instagram பதிலளிக்க நேரமாகிறது. உங்கள் connection-ஐச் சரிபார்த்து மீண்டும் முயற்சியுங்கள்.</string>
+    <string name="ig_error_unreachable">Instagram-ஐ அணுக முடியவில்லை. Internet connection-ஐச் சரிபார்க்கவும்.</string>
+    <string name="ig_error_network">Instagram-ஐத் தொடர்புகொள்ளும்போது network பிழை (%1$s)</string>
+    <plurals name="ig_error_rate_limited">
+        <item quantity="one">Instagram இப்போது உங்கள் account-ன் requests-ஐக் கட்டுப்படுத்துகிறது. சுமார் %1$d நிமிடம் காத்திருந்து மீண்டும் முயற்சியுங்கள்.</item>
+        <item quantity="other">Instagram இப்போது உங்கள் account-ன் requests-ஐக் கட்டுப்படுத்துகிறது. சுமார் %1$d நிமிடங்கள் காத்திருந்து மீண்டும் முயற்சியுங்கள்.</item>
+    </plurals>
+    <string name="ig_login_title">Instagram-ல் login செய்யுங்கள்</string>
+    <string name="ig_cd_close">மூடு</string>
+    <string name="ig_cd_secure_page">பாதுகாப்பான Instagram page</string>
+    <string name="ig_cd_back">பின்செல்</string>
+    <string name="ig_search_hint">Instagram username-ஐத் தேடுங்கள்</string>
+    <string name="ig_cd_clear">அழி</string>
+    <string name="ig_search_empty_title">ஒரு account-ஐக் கண்டுபிடியுங்கள்</string>
+    <string name="ig_search_empty_message">ஒருவரின் stories, highlights, HD profile photo-வைப் பார்க்க username-ஐத் தேடுங்கள்.</string>
+    <string name="ig_search_no_results_title">Accounts எதுவும் கிடைக்கவில்லை</string>
+    <string name="ig_search_no_results_message">வேறு username-ஐ முயற்சியுங்கள், அல்லது @%1$s-ஐத் திறக்க search அழுத்துங்கள்.</string>
+    <string name="ig_cd_private">Private</string>
+    <string name="ig_profile_error_title">@%1$s-ஐத் திறக்க முடியவில்லை</string>
+    <string name="ig_try_again_message">மீண்டும் முயற்சியுங்கள்.</string>
+    <string name="ig_try_again">மீண்டும் முயற்சி</string>
+    <string name="ig_highlight">Highlight</string>
+    <string name="ig_current_stories">தற்போதைய stories</string>
+    <string name="ig_save_all">அனைத்தையும் சேமி (%1$d)</string>
+    <string name="ig_all_saved">அனைத்தும் சேமிக்கப்பட்டன</string>
+    <string name="ig_couldnt_load">Load செய்ய முடியவில்லை</string>
+    <string name="ig_private_account">Private account</string>
+    <string name="ig_no_active_stories">Active stories இல்லை</string>
+    <string name="ig_private_account_message">நீங்கள் follow செய்யும் private accounts-ன் stories-ஐ மட்டுமே பார்க்க முடியும்.</string>
+    <string name="ig_no_active_stories_message">Stories 24 மணி நேரத்தில் மறைந்துவிடும். மேலே உள்ள highlights-ஐப் பாருங்கள்.</string>
+    <string name="ig_profile_photo_saved">Profile photo சேமிக்கப்பட்டது</string>
+    <string name="ig_saving">சேமிக்கிறது…</string>
+    <string name="ig_save_hd_profile_photo">HD profile photo-வைச் சேமி</string>
+    <string name="ig_loading">Load ஆகிறது…</string>
+    <string name="ig_highlights">Highlights</string>
+    <string name="ig_no_highlights">Highlights இல்லை</string>
+    <string name="ig_save_to_gallery">Gallery-யில் சேமி</string>
+
+    <!-- Browser -->
+    <string name="browser_home">முகப்பு</string>
+    <string name="browser_address_placeholder">Video link-ஐ paste செய்யுங்கள் அல்லது தேடுங்கள்</string>
+    <string name="browser_clear">அழி</string>
+    <string name="browser_reload">மீண்டும் load செய்</string>
+    <plurals name="browser_video_count">
+        <item quantity="one">%1$d video</item>
+        <item quantity="other">%1$d videos</item>
+    </plurals>
+    <string name="browser_sheet_title">இந்த page-ல் உள்ள videos</string>
+    <string name="browser_sheet_description">Video-வை play செய்தால் அதைக் கண்டுபிடிக்க உதவும். Gallery-யில் சேமிக்க ஒன்றைத் தேர்ந்தெடுங்கள்.</string>
+    <string name="browser_video_untitled">Video</string>
+    <string name="browser_hd_stream">HD stream</string>
+    <string name="browser_play">Play</string>
+    <string name="browser_share">பகிர்</string>
+    <string name="browser_home_title">எந்த site-லிருந்தும் videos-ஐ download செய்யுங்கள்</string>
+    <string name="browser_home_description">ஒரு site-ஐத் திறந்து, video-வை play செய்து, தோன்றும் ⬇ button-ஐ tap செய்யுங்கள்.</string>
+    <string name="browser_paste_and_open">Link-ஐ paste செய்து திற</string>
+    <string name="browser_popular_sites">பிரபல sites</string>
+    <string name="browser_how_it_works">எப்படி வேலை செய்கிறது</string>
+    <string name="browser_step_open">ஒரு site-ஐத் திறங்கள் அல்லது video link-ஐ paste செய்யுங்கள்</string>
+    <string name="browser_step_play">வேண்டிய video-வை play செய்யுங்கள்</string>
+    <string name="browser_step_save">⬇ tap செய்து தேர்ந்தெடுங்கள் — gallery-யில் சேமிக்கப்படும்</string>
+    <string name="browser_disclaimer">SaveVibe-க்கும் இந்த sites எதற்கும் தொடர்பு இல்லை. YouTube ஆதரிக்கப்படவில்லை. உங்களுக்குச் சொந்தமான அல்லது சேமிக்க அனுமதி உள்ள videos-ஐ மட்டும் download செய்யுங்கள்.</string>
+    <string name="browser_youtube_blocked">YouTube ஆதரிக்கப்படவில்லை. Facebook, X, TikTok, Vimeo போன்றவற்றை முயற்சியுங்கள்.</string>
+    <string name="browser_download_failed">Download தோல்வியடைந்தது</string>
+    <string name="browser_error_drm">இந்த video DRM-ஆல் பாதுகாக்கப்பட்டது, download செய்ய முடியாது.</string>
+    <string name="browser_error_no_parts">இந்த stream-ல் download செய்யக்கூடிய பகுதிகள் இல்லை.</string>
+</resources>

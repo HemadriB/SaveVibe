@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Status bar icon: the SaveVibe heart with download arrow, white on transparent -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="48"
+    android:viewportHeight="44">
+    <group
+        android:translateX="-30"
+        android:translateY="-32">
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:fillType="evenOdd"
+            android:pathData="M54,75 C54,75 31,61.5 31,46.5 C31,39.3 36.7,33.5 43.7,33.5 C48.1,33.5 51.9,35.9 54,39.4 C56.1,35.9 59.9,33.5 64.3,33.5 C71.3,33.5 77,39.3 77,46.5 C77,61.5 54,75 54,75 Z M51.7,42.5 L56.3,42.5 L56.3,52.6 L60.4,48.5 L63.6,51.7 L54,61.3 L44.4,51.7 L47.6,48.5 L51.7,52.6 Z" />
+    </group>
+</vector>

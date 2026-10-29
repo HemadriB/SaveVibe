@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.StatusHub" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Brand color while the app starts, so there's no white flash before the splash -->
+        <item name="android:windowBackground">@color/brand_launch</item>
+    </style>
+</resources>

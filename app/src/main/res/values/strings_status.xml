@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common -->
+    <string name="action_refresh">Refresh</string>
+    <string name="action_open">Open</string>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_back">Back</string>
+    <string name="action_whatsapp">WhatsApp</string>
+    <string name="label_photos">Photos</string>
+    <string name="label_videos">Videos</string>
+    <string name="label_all">All</string>
+    <string name="label_photo">Photo</string>
+    <string name="label_video">Video</string>
+    <string name="label_saved">Saved</string>
+
+    <!-- Home tabs -->
+    <string name="tab_status">Status</string>
+    <string name="tab_instagram">Instagram</string>
+    <string name="tab_videos">Videos</string>
+    <string name="tab_saved">Saved</string>
+
+    <!-- Status tab -->
+    <string name="status_title">Status Saver</string>
+    <plurals name="status_subtitle_count">
+        <item quantity="one">%1$d status • tap ⬇ to save</item>
+        <item quantity="other">%1$d statuses • tap ⬇ to save</item>
+    </plurals>
+    <string name="status_subtitle_default">Save WhatsApp photos &amp; videos</string>
+    <string name="status_source_unlocked">%1$s statuses unlocked</string>
+    <string name="status_storage_needed_title">Storage permission needed</string>
+    <string name="status_storage_needed_message">Allow storage access to see and save the WhatsApp statuses you\'ve viewed.</string>
+    <string name="status_grant_permission">Grant permission</string>
+    <string name="status_empty_photos_title">No photo statuses yet</string>
+    <string name="status_empty_videos_title">No video statuses yet</string>
+    <string name="status_empty_message">Open WhatsApp, watch some statuses, then come back. They\'ll show up here automatically.</string>
+    <string name="status_open_whatsapp">Open WhatsApp</string>
+    <string name="status_saved_toast">Saved to your SaveVibe album</string>
+    <string name="status_save_failed">Failed to save status</string>
+    <string name="status_switcher_label">%1$s  %2$d</string>
+    <string name="status_also_show_source">Also show %1$s statuses</string>
+    <string name="status_business_badge">Business</string>
+    <string name="status_unlock_title">Unlock your statuses</string>
+    <string name="status_unlock_message">Android keeps the statuses you\'ve viewed in a private WhatsApp folder. Allow access once — it takes 5 seconds.</string>
+    <string name="status_step_view">View a status in WhatsApp first</string>
+    <string name="status_step_tap">Tap the button below</string>
+    <string name="status_step_allow">Tap \"Use this folder\" → \"Allow\"</string>
+    <string name="status_allow_source">Allow %1$s</string>
+
+    <!-- Saved tab -->
+    <plurals name="saved_subtitle_count">
+        <item quantity="one">%1$d file in your Gallery</item>
+        <item quantity="other">%1$d files in your Gallery</item>
+    </plurals>
+    <string name="saved_empty_title">Nothing saved yet</string>
+    <string name="saved_empty_message">Statuses you save and Instagram videos you download will appear here.</string>
+    <string name="saved_item_meta">%1$s • %2$s</string>
+    <string name="saved_delete_failed">Could not delete. Remove it from your Gallery app.</string>
+
+    <!-- Preview -->
+    <string name="preview_swipe_for_more">Swipe for more</string>
+    <string name="preview_position">%1$d / %2$d</string>
+    <string name="preview_save_to_gallery">Save to Gallery</string>
+
+    <!-- Splash -->
+    <string name="splash_logo_description">SaveVibe logo</string>
+    <string name="splash_tagline">Status, Reels &amp; Story Saver</string>
+    <string name="splash_footer">Save • Repost • Share</string>
+
+    <!-- Ad-free -->
+    <string name="adfree_content_description">Ad-free hour</string>
+    <string name="adfree_no_video">No video available right now. Please try again later.</string>
+    <string name="adfree_title_active">You\'re ad-free ✨</string>
+    <string name="adfree_title_offer">Go ad-free for 1 hour</string>
+    <plurals name="adfree_minutes_left">
+        <item quantity="one">No ads for the next %1$d minute. Enjoy!</item>
+        <item quantity="other">No ads for the next %1$d minutes. Enjoy!</item>
+    </plurals>
+    <string name="adfree_offer_message">Watch one short video and SaveVibe shows no ads at all for the next hour.</string>
+    <string name="adfree_watch_video">Watch video</string>
+    <string name="adfree_privacy_settings">Ad privacy settings</string>
+    <string name="adfree_great">Great</string>
+    <string name="adfree_not_now">Not now</string>
+    <string name="adfree_granted">Ads are off for 1 hour 🎉</string>
+
+    <!-- Media actions -->
+    <string name="media_no_app_to_open">No app found to open this file</string>
+    <string name="media_share_via">Share via</string>
+    <string name="media_whatsapp_not_installed">WhatsApp is not installed</string>
+    <string name="download_error_web_page">The URL returned a web page, not a video file. Use a direct video link or an Instagram link.</string>
+</resources>

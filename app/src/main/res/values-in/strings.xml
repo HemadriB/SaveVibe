@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_target_label">Download pakai SaveVibe</string>
+    <string name="not_affiliated">SaveVibe tidak berafiliasi dengan WhatsApp, Instagram, atau Meta.</string>
+    <string name="status_wrong_folder">Itu bukan folder status WhatsApp. Ketuk \"Gunakan folder ini\" tanpa pindah folder.</string>
+
+    <string name="onboarding_skip">Lewati</string>
+    <string name="onboarding_next">Lanjut</string>
+    <string name="onboarding_start">Mulai simpan</string>
+    <string name="onboarding_later">Nanti</string>
+    <string name="onboarding_status_title">Simpan status\nfavoritmu</string>
+    <string name="onboarding_status_description">Foto dan video dari status WhatsApp yang sudah kamu lihat — tersimpan ke galeri dengan sekali ketuk.</string>
+    <string name="onboarding_reels_title">Reels, video\n&amp; story</string>
+    <string name="onboarding_reels_description">Salin link atau ketuk Bagikan → SaveVibe. Foto dan video tersimpan dalam HD, siap diunggah ulang.</string>
+    <string name="onboarding_setup_title">Buka akses status</string>
+    <string name="onboarding_setup_description">Satu langkah cepat: Android menyimpan status yang sudah kamu lihat di folder WhatsApp pribadi. Izinkan akses sekali saja — cuma 5 detik.</string>
+    <string name="onboarding_setup_done_title">Semua siap!</string>
+    <string name="onboarding_setup_done_description">Status yang kamu lihat di WhatsApp sekarang otomatis muncul di SaveVibe.</string>
+    <string name="onboarding_setup_no_whatsapp">WhatsApp belum terpasang di HP ini. Kamu tetap bisa simpan Reels dan video dari link apa pun.</string>
+    <string name="onboarding_allow_source">Izinkan %1$s</string>
+    <string name="onboarding_source_unlocked">%1$s terbuka</string>
+    <string name="onboarding_allow_storage">Izinkan akses penyimpanan</string>
+    <string name="onboarding_storage_granted">Akses penyimpanan diizinkan</string>
+    <string name="onboarding_picker_hint">Di layar berikutnya, ketuk tombol ini, lalu \"Izinkan\".</string>
+    <string name="onboarding_picker_button">Gunakan folder ini</string>
+    <string name="onboarding_alerts">Kabari saya saat ada status baru</string>
+
+    <string name="settings_more">Opsi lainnya</string>
+    <string name="settings_new_status_alerts">Notifikasi status baru</string>
+    <string name="settings_auto_save">Simpan otomatis status baru</string>
+    <string name="settings_share_app">Bagikan SaveVibe</string>
+    <string name="settings_rate_app">Beri nilai SaveVibe</string>
+    <string name="settings_language">Bahasa aplikasi</string>
+    <string name="settings_privacy_policy">Kebijakan privasi</string>
+
+    <string name="share_app_title">Bagikan SaveVibe</string>
+    <string name="share_app_message">Aku simpan status WhatsApp dan Reels pakai SaveVibe — gratis dan cepat: %1$s</string>
+    <string name="share_reward_granted">Makasih sudah berbagi! Bebas iklan selama 24 jam ke depan 🎉</string>
+
+    <string name="notification_channel_name">Status baru</string>
+    <string name="notification_channel_description">Memberi tahu saat ada status WhatsApp baru yang siap disimpan</string>
+    <string name="notification_new_statuses_text">Ketuk untuk lihat dan simpan sebelum hilang</string>
+    <plurals name="notification_new_statuses_title">
+        <item quantity="other">%1$d status baru siap disimpan</item>
+    </plurals>
+    <plurals name="notification_auto_saved_title">
+        <item quantity="other">%1$d status baru tersimpan ke galeri</item>
+    </plurals>
+
+    <string name="widget_label">Status SaveVibe</string>
+    <string name="widget_description">Lihat berapa status baru yang menunggu</string>
+    <string name="widget_subtitle">Ketuk untuk lihat &amp; simpan</string>
+    <string name="widget_no_new_statuses">Belum ada status baru</string>
+    <plurals name="widget_new_statuses">
+        <item quantity="other">%1$d status baru</item>
+    </plurals>
+
+    <string name="action_refresh">Muat ulang</string>
+    <string name="action_open">Buka</string>
+    <string name="action_share">Bagikan</string>
+    <string name="action_delete">Hapus</string>
+    <string name="action_back">Kembali</string>
+    <string name="action_whatsapp">WhatsApp</string>
+    <string name="label_photos">Foto</string>
+    <string name="label_videos">Video</string>
+    <string name="label_all">Semua</string>
+    <string name="label_photo">Foto</string>
+    <string name="label_video">Video</string>
+    <string name="label_saved">Tersimpan</string>
+
+    <string name="tab_status">Status</string>
+    <string name="tab_instagram">Instagram</string>
+    <string name="tab_videos">Video</string>
+    <string name="tab_saved">Tersimpan</string>
+
+    <string name="status_title">Penyimpan Status</string>
+    <plurals name="status_subtitle_count">
+        <item quantity="other">%1$d status • ketuk ⬇ untuk simpan</item>
+    </plurals>
+    <string name="status_subtitle_default">Simpan foto &amp; video WhatsApp</string>
+    <string name="status_source_unlocked">Status %1$s terbuka</string>
+    <string name="status_storage_needed_title">Perlu izin penyimpanan</string>
+    <string name="status_storage_needed_message">Izinkan akses penyimpanan untuk melihat dan menyimpan status WhatsApp yang sudah kamu tonton.</string>
+    <string name="status_grant_permission">Beri izin</string>
+    <string name="status_empty_photos_title">Belum ada status foto</string>
+    <string name="status_empty_videos_title">Belum ada status video</string>
+    <string name="status_empty_message">Buka WhatsApp, tonton beberapa status, lalu kembali ke sini. Statusnya akan muncul otomatis.</string>
+    <string name="status_open_whatsapp">Buka WhatsApp</string>
+    <string name="status_saved_toast">Tersimpan di album SaveVibe</string>
+    <string name="status_save_failed">Gagal menyimpan status</string>
+    <string name="status_switcher_label">%1$s  %2$d</string>
+    <string name="status_also_show_source">Tampilkan juga status %1$s</string>
+    <string name="status_business_badge">Business</string>
+    <string name="status_unlock_title">Buka akses status</string>
+    <string name="status_unlock_message">Android menyimpan status yang sudah kamu lihat di folder WhatsApp pribadi. Izinkan akses sekali saja — cuma 5 detik.</string>
+    <string name="status_step_view">Lihat status di WhatsApp dulu</string>
+    <string name="status_step_tap">Ketuk tombol di bawah</string>
+    <string name="status_step_allow">Ketuk \"Gunakan folder ini\" → \"Izinkan\"</string>
+    <string name="status_allow_source">Izinkan %1$s</string>
+
+    <plurals name="saved_subtitle_count">
+        <item quantity="other">%1$d file di Galeri</item>
+    </plurals>
+    <string name="saved_empty_title">Belum ada yang disimpan</string>
+    <string name="saved_empty_message">Status yang kamu simpan dan video Instagram yang kamu download akan muncul di sini.</string>
+    <string name="saved_item_meta">%1$s • %2$s</string>
+    <string name="saved_delete_failed">Gagal menghapus. Hapus lewat aplikasi Galeri.</string>
+
+    <string name="preview_swipe_for_more">Geser untuk lainnya</string>
+    <string name="preview_position">%1$d / %2$d</string>
+    <string name="preview_save_to_gallery">Simpan ke Galeri</string>
+
+    <string name="splash_logo_description">Logo SaveVibe</string>
+    <string name="splash_tagline">Simpan Status, Reels &amp; Story</string>
+    <string name="splash_footer">Simpan • Unggah ulang • Bagikan</string>
+
+    <string name="adfree_content_description">Satu jam bebas iklan</string>
+    <string name="adfree_no_video">Video belum tersedia. Coba lagi nanti ya.</string>
+    <string name="adfree_title_active">Kamu bebas iklan ✨</string>
+    <string name="adfree_title_offer">Bebas iklan selama 1 jam</string>
+    <plurals name="adfree_minutes_left">
+        <item quantity="other">Tanpa iklan selama %1$d menit ke depan. Selamat menikmati!</item>
+    </plurals>
+    <string name="adfree_offer_message">Tonton satu video singkat dan SaveVibe tidak menampilkan iklan sama sekali selama satu jam.</string>
+    <string name="adfree_watch_video">Tonton video</string>
+    <string name="adfree_privacy_settings">Setelan privasi iklan</string>
+    <string name="adfree_great">Oke</string>
+    <string name="adfree_not_now">Nanti saja</string>
+    <string name="adfree_granted">Iklan dimatikan selama 1 jam 🎉</string>
+
+    <string name="media_no_app_to_open">Tidak ada aplikasi untuk membuka file ini</string>
+    <string name="media_share_via">Bagikan lewat</string>
+    <string name="media_whatsapp_not_installed">WhatsApp belum terpasang</string>
+    <string name="download_error_web_page">Link ini membuka halaman web, bukan file video. Pakai link video langsung atau link Instagram.</string>
+
+    <string name="ig_logged_in_toast">Berhasil masuk ke Instagram</string>
+    <string name="ig_link_detected_toast">Link Instagram terdeteksi</string>
+    <string name="ig_header_title">Penyimpan Instagram</string>
+    <string name="ig_header_subtitle_logged_in">Sudah masuk • story terbuka</string>
+    <string name="ig_header_subtitle">Reels, postingan, foto &amp; story</string>
+    <string name="ig_logout">Keluar</string>
+    <string name="ig_login">Masuk</string>
+    <string name="ig_paste_link_hint">Tempel link Instagram di sini</string>
+    <string name="ig_cd_url">URL</string>
+    <string name="ig_cd_clear_link">Hapus link</string>
+    <string name="ig_paste">Tempel</string>
+    <string name="ig_download">Download</string>
+    <string name="ig_caption_copied">Caption disalin</string>
+    <string name="ig_stories">Story</string>
+    <string name="ig_stories_hint">Ketuk seseorang untuk lihat &amp; simpan story-nya</string>
+    <string name="ig_cd_refresh_stories">Muat ulang story</string>
+    <string name="ig_search">Cari</string>
+    <string name="ig_your_story">Story kamu</string>
+    <string name="ig_no_new_stories">Belum ada story baru dari akun yang kamu ikuti. Pakai Cari untuk menemukan siapa saja.</string>
+    <string name="ig_save_stories_title">Simpan story Instagram</string>
+    <string name="ig_save_stories_description">Masuk untuk lihat story dari akun yang kamu ikuti dan simpan dengan sekali ketuk</string>
+    <string name="ig_fetching_post">Mengambil postingan…</string>
+    <string name="ig_downloading_progress">Mengunduh %1$d dari %2$d</string>
+    <string name="ig_downloading">Mengunduh…</string>
+    <string name="ig_percent">%1$d%%</string>
+    <string name="ig_cancel">Batal</string>
+    <string name="ig_video">Video</string>
+    <plurals name="ig_saved_to_gallery_count">
+        <item quantity="other">%1$d tersimpan ke Galeri</item>
+    </plurals>
+    <string name="ig_saved_to_location">Tersimpan di: %1$s</string>
+    <string name="ig_cd_saved">Tersimpan</string>
+    <string name="ig_share">Bagikan</string>
+    <string name="ig_caption">Caption</string>
+    <string name="ig_download_another">Download lagi</string>
+    <string name="ig_couldnt_download">Gagal mengunduh</string>
+    <string name="ig_login_to_instagram">Masuk ke Instagram</string>
+    <string name="ig_dismiss">Tutup</string>
+    <string name="ig_how_it_works">Cara pakainya</string>
+    <string name="ig_howto_copy_title">Salin link</string>
+    <string name="ig_howto_copy_text">Di Instagram, ketuk ••• atau Bagikan → Salin link</string>
+    <string name="ig_howto_back_title">Kembali ke sini</string>
+    <string name="ig_howto_back_text">Link terisi otomatis — atau pakai Bagikan → SaveVibe</string>
+    <string name="ig_howto_download_text">Semua foto &amp; video di carousel tersimpan ke Galeri</string>
+    <string name="ig_howto_private_title">Story &amp; postingan privat</string>
+    <string name="ig_howto_private_logged_in">Ketuk seseorang di Story di atas, atau cari username apa saja</string>
+    <string name="ig_howto_private_logged_out">Ketuk Masuk di atas untuk membukanya</string>
+    <string name="ig_disclaimer">SaveVibe tidak berafiliasi dengan Instagram atau Meta. Hanya download konten milikmu atau yang kamu punya izin untuk disimpan.</string>
+    <string name="ig_error_paste_link">Tempel link Instagram atau link video</string>
+    <string name="ig_error_invalid_url">URL tidak valid. Masukkan link yang benar</string>
+    <string name="ig_error_youtube">Download YouTube tidak didukung. Coba link Instagram atau link video langsung.</string>
+    <string name="ig_error_use_videos_tab">Tab ini khusus Instagram. Untuk situs lain, buka link-nya di tab Video.</string>
+    <string name="ig_error_download_failed">Download gagal</string>
+    <string name="ig_error_load_stories">Gagal memuat story</string>
+    <string name="ig_error_search_failed">Pencarian gagal</string>
+    <string name="ig_error_load_profile">Gagal memuat profil</string>
+    <string name="ig_error_load_highlights">Gagal memuat sorotan</string>
+    <string name="ig_error_profile_photo">Gagal mengambil foto profil</string>
+    <string name="ig_error_save">Gagal menyimpan: %1$s</string>
+    <string name="ig_error_share_link">Link ini tidak bisa dibuka. Salin lagi link-nya dari Instagram.</string>
+    <string name="ig_error_unsupported_link">Link Instagram ini tidak didukung. Pakai link postingan, reel, video, atau story.</string>
+    <string name="ig_error_invalid_link">Link Instagram tidak valid</string>
+    <string name="ig_error_private_or_deleted">Postingan ini privat atau sudah dihapus.</string>
+    <string name="ig_error_private_login">Postingan ini privat. Masuk ke Instagram untuk download postingan dari akun yang kamu ikuti.</string>
+    <string name="ig_error_not_returned">Instagram tidak mengirim postingan ini. Mungkin privat, atau Instagram sedang membatasi download. Masuk ke Instagram lalu coba lagi.</string>
+    <string name="ig_error_login_stories">Masuk ke Instagram untuk download story.</string>
+    <string name="ig_error_user_not_found">@%1$s tidak ditemukan.</string>
+    <string name="ig_error_login_stories_highlights">Masuk ke Instagram untuk download story dan sorotan.</string>
+    <string name="ig_error_story_expired">Story ini sudah kedaluwarsa atau tidak terlihat oleh akunmu.</string>
+    <string name="ig_error_story_no_media">Tidak ada media yang bisa didownload di story ini.</string>
+    <string name="ig_error_login_see_stories">Masuk ke Instagram untuk melihat story.</string>
+    <string name="ig_error_login_search">Masuk ke Instagram untuk mencari akun.</string>
+    <string name="ig_error_login_profiles">Masuk ke Instagram untuk melihat profil.</string>
+    <string name="ig_error_profile_not_found">@%1$s tidak ditemukan.</string>
+    <string name="ig_error_login_profile_photos">Masuk ke Instagram untuk menyimpan foto profil.</string>
+    <string name="ig_error_load_profile_photo">Gagal memuat foto profil.</string>
+    <string name="ig_error_login_highlights">Masuk ke Instagram untuk melihat sorotan.</string>
+    <string name="ig_error_load_highlights_dot">Gagal memuat sorotan.</string>
+    <string name="ig_error_load_stories_dot">Gagal memuat story.</string>
+    <string name="ig_error_search_failed_dot">Pencarian gagal.</string>
+    <string name="ig_error_session_expired">Sesi Instagram kamu sudah habis. Silakan masuk lagi.</string>
+    <string name="ig_error_slow_down">Instagram minta kita pelan-pelan. Tunggu beberapa menit lalu coba lagi.</string>
+    <string name="ig_error_post_no_media">Tidak ada foto atau video yang bisa didownload di postingan ini.</string>
+    <string name="ig_error_timeout">Instagram terlalu lama merespons. Cek koneksimu lalu coba lagi.</string>
+    <string name="ig_error_unreachable">Tidak bisa terhubung ke Instagram. Cek koneksi internetmu.</string>
+    <string name="ig_error_network">Kesalahan jaringan saat menghubungi Instagram (%1$s)</string>
+    <plurals name="ig_error_rate_limited">
+        <item quantity="other">Instagram sedang membatasi permintaan dari akunmu. Tunggu sekitar %1$d menit lalu coba lagi.</item>
+    </plurals>
+    <string name="ig_login_title">Masuk ke Instagram</string>
+    <string name="ig_cd_close">Tutup</string>
+    <string name="ig_cd_secure_page">Halaman Instagram yang aman</string>
+    <string name="ig_cd_back">Kembali</string>
+    <string name="ig_search_hint">Cari username Instagram</string>
+    <string name="ig_cd_clear">Hapus</string>
+    <string name="ig_search_empty_title">Cari akun</string>
+    <string name="ig_search_empty_message">Cari username untuk melihat story, sorotan, dan foto profil HD-nya.</string>
+    <string name="ig_search_no_results_title">Akun tidak ditemukan</string>
+    <string name="ig_search_no_results_message">Coba username lain, atau tekan cari untuk membuka @%1$s.</string>
+    <string name="ig_cd_private">Privat</string>
+    <string name="ig_profile_error_title">Gagal membuka @%1$s</string>
+    <string name="ig_try_again_message">Silakan coba lagi.</string>
+    <string name="ig_try_again">Coba lagi</string>
+    <string name="ig_highlight">Sorotan</string>
+    <string name="ig_current_stories">Story saat ini</string>
+    <string name="ig_save_all">Simpan semua (%1$d)</string>
+    <string name="ig_all_saved">Semua tersimpan</string>
+    <string name="ig_couldnt_load">Gagal memuat</string>
+    <string name="ig_private_account">Akun privat</string>
+    <string name="ig_no_active_stories">Tidak ada story aktif</string>
+    <string name="ig_private_account_message">Kamu hanya bisa melihat story akun privat yang kamu ikuti.</string>
+    <string name="ig_no_active_stories_message">Story hilang setelah 24 jam. Cek sorotan di atas.</string>
+    <string name="ig_profile_photo_saved">Foto profil tersimpan</string>
+    <string name="ig_saving">Menyimpan…</string>
+    <string name="ig_save_hd_profile_photo">Simpan foto profil HD</string>
+    <string name="ig_loading">Memuat…</string>
+    <string name="ig_highlights">Sorotan</string>
+    <string name="ig_no_highlights">Tidak ada sorotan</string>
+    <string name="ig_save_to_gallery">Simpan ke Galeri</string>
+
+    <string name="browser_home">Beranda</string>
+    <string name="browser_address_placeholder">Tempel link video atau cari</string>
+    <string name="browser_clear">Hapus</string>
+    <string name="browser_reload">Muat ulang</string>
+    <plurals name="browser_video_count">
+        <item quantity="other">%1$d video</item>
+    </plurals>
+    <string name="browser_sheet_title">Video di halaman ini</string>
+    <string name="browser_sheet_description">Putar videonya agar lebih mudah ditemukan. Pilih satu untuk disimpan ke galeri.</string>
+    <string name="browser_video_untitled">Video</string>
+    <string name="browser_hd_stream">Stream HD</string>
+    <string name="browser_play">Putar</string>
+    <string name="browser_share">Bagikan</string>
+    <string name="browser_home_title">Download video dari situs mana saja</string>
+    <string name="browser_home_description">Buka situs, putar videonya, lalu ketuk tombol ⬇ yang muncul.</string>
+    <string name="browser_paste_and_open">Tempel link &amp; buka</string>
+    <string name="browser_popular_sites">Situs populer</string>
+    <string name="browser_how_it_works">Cara pakainya</string>
+    <string name="browser_step_open">Buka situs atau tempel link video</string>
+    <string name="browser_step_play">Putar video yang kamu mau</string>
+    <string name="browser_step_save">Ketuk ⬇ dan pilih — langsung tersimpan ke galeri</string>
+    <string name="browser_disclaimer">SaveVibe tidak berafiliasi dengan situs-situs ini. YouTube tidak didukung. Hanya download video milikmu atau yang kamu punya izin untuk disimpan.</string>
+    <string name="browser_youtube_blocked">YouTube tidak didukung. Coba Facebook, X, TikTok, Vimeo, dan lainnya.</string>
+    <string name="browser_download_failed">Download gagal</string>
+    <string name="browser_error_drm">Video ini dilindungi DRM dan tidak bisa didownload.</string>
+    <string name="browser_error_no_parts">Stream ini tidak punya bagian yang bisa didownload.</string>
+</resources>

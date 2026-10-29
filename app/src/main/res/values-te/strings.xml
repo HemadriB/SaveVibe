@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_target_label">SaveVibe తో డౌన్‌లోడ్ చేయండి</string>
+    <string name="not_affiliated">SaveVibe కి WhatsApp, Instagram లేదా Meta తో ఎలాంటి సంబంధం లేదు.</string>
+    <string name="status_wrong_folder">ఇది WhatsApp స్టేటస్ ఫోల్డర్ కాదు. ఫోల్డర్ మార్చకుండా \"Use this folder\" నొక్కండి.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">స్కిప్</string>
+    <string name="onboarding_next">తర్వాత</string>
+    <string name="onboarding_start">సేవ్ చేయడం మొదలెట్టండి</string>
+    <string name="onboarding_later">తర్వాత చూద్దాం</string>
+    <string name="onboarding_status_title">మీకు నచ్చిన\nస్టేటస్‌లు సేవ్ చేయండి</string>
+    <string name="onboarding_status_description">మీరు చూసిన WhatsApp స్టేటస్‌ల ఫోటోలు, వీడియోలు — ఒక్క ట్యాప్‌తో గ్యాలరీలో సేవ్.</string>
+    <string name="onboarding_reels_title">Reels, వీడియోలు\n&amp; స్టోరీలు</string>
+    <string name="onboarding_reels_description">లింక్ కాపీ చేయండి లేదా Share → SaveVibe నొక్కండి. ఫోటోలు, వీడియోలు HD లో సేవ్ అవుతాయి, రీపోస్ట్‌కి రెడీ.</string>
+    <string name="onboarding_setup_title">మీ స్టేటస్‌లను అన్‌లాక్ చేయండి</string>
+    <string name="onboarding_setup_description">ఒక్క చిన్న స్టెప్: మీరు చూసిన స్టేటస్‌లను Android ఒక ప్రైవేట్ WhatsApp ఫోల్డర్‌లో ఉంచుతుంది. ఒక్కసారి యాక్సెస్ ఇవ్వండి — 5 సెకన్లు చాలు.</string>
+    <string name="onboarding_setup_done_title">అంతా రెడీ!</string>
+    <string name="onboarding_setup_done_description">ఇకపై WhatsApp లో మీరు చూసే స్టేటస్‌లు SaveVibe లో ఆటోమేటిక్‌గా కనిపిస్తాయి.</string>
+    <string name="onboarding_setup_no_whatsapp">ఈ ఫోన్‌లో WhatsApp ఇన్‌స్టాల్ కాలేదు. అయినా ఏ లింక్ నుంచైనా Reels, వీడియోలు సేవ్ చేయొచ్చు.</string>
+    <string name="onboarding_allow_source">%1$s అనుమతించండి</string>
+    <string name="onboarding_source_unlocked">%1$s అన్‌లాక్ అయింది</string>
+    <string name="onboarding_allow_storage">స్టోరేజ్ యాక్సెస్ ఇవ్వండి</string>
+    <string name="onboarding_storage_granted">స్టోరేజ్ యాక్సెస్ ఇచ్చారు</string>
+    <string name="onboarding_picker_hint">తర్వాతి స్క్రీన్‌లో ఈ బటన్ నొక్కి, ఆపై \"Allow\" నొక్కండి.</string>
+    <string name="onboarding_picker_button">Use this folder</string>
+    <string name="onboarding_alerts">కొత్త స్టేటస్‌లు వచ్చినప్పుడు చెప్పు</string>
+
+    <!-- Settings menu -->
+    <string name="settings_more">మరిన్ని ఆప్షన్లు</string>
+    <string name="settings_new_status_alerts">కొత్త స్టేటస్ అలర్ట్‌లు</string>
+    <string name="settings_auto_save">కొత్త స్టేటస్‌లు ఆటో-సేవ్</string>
+    <string name="settings_share_app">SaveVibe షేర్ చేయండి</string>
+    <string name="settings_rate_app">SaveVibe కి రేటింగ్ ఇవ్వండి</string>
+    <string name="settings_language">యాప్ భాష</string>
+    <string name="settings_privacy_policy">ప్రైవసీ పాలసీ</string>
+
+    <!-- Sharing -->
+    <string name="share_app_title">SaveVibe షేర్ చేయండి</string>
+    <string name="share_app_message">నేను WhatsApp స్టేటస్‌లు, Reels ని SaveVibe తో సేవ్ చేస్తాను — ఫ్రీ, ఫాస్ట్: %1$s</string>
+    <string name="share_reward_granted">షేర్ చేసినందుకు థాంక్స్! తర్వాతి 24 గంటలు యాడ్స్ ఉండవు 🎉</string>
+
+    <!-- New status alerts -->
+    <string name="notification_channel_name">కొత్త స్టేటస్‌లు</string>
+    <string name="notification_channel_description">కొత్త WhatsApp స్టేటస్‌లు సేవ్ చేయడానికి రెడీగా ఉన్నప్పుడు చెబుతుంది</string>
+    <string name="notification_new_statuses_text">అవి మాయమయ్యే ముందే చూసి సేవ్ చేయడానికి ట్యాప్ చేయండి</string>
+    <plurals name="notification_new_statuses_title">
+        <item quantity="one">సేవ్ చేయడానికి %1$d కొత్త స్టేటస్</item>
+        <item quantity="other">సేవ్ చేయడానికి %1$d కొత్త స్టేటస్‌లు</item>
+    </plurals>
+    <plurals name="notification_auto_saved_title">
+        <item quantity="one">%1$d కొత్త స్టేటస్ గ్యాలరీలో సేవ్ అయింది</item>
+        <item quantity="other">%1$d కొత్త స్టేటస్‌లు గ్యాలరీలో సేవ్ అయ్యాయి</item>
+    </plurals>
+
+    <!-- Widget -->
+    <string name="widget_label">SaveVibe స్టేటస్‌లు</string>
+    <string name="widget_description">ఎన్ని కొత్త స్టేటస్‌లు ఉన్నాయో చూడండి</string>
+    <string name="widget_subtitle">చూడటానికి &amp; సేవ్ చేయడానికి ట్యాప్ చేయండి</string>
+    <string name="widget_no_new_statuses">కొత్త స్టేటస్‌లు లేవు</string>
+    <plurals name="widget_new_statuses">
+        <item quantity="one">%1$d కొత్త స్టేటస్</item>
+        <item quantity="other">%1$d కొత్త స్టేటస్‌లు</item>
+    </plurals>
+
+    <!-- Common -->
+    <string name="action_refresh">రిఫ్రెష్</string>
+    <string name="action_open">ఓపెన్</string>
+    <string name="action_share">షేర్</string>
+    <string name="action_delete">డిలీట్</string>
+    <string name="action_back">వెనక్కి</string>
+    <string name="action_whatsapp">WhatsApp</string>
+    <string name="label_photos">ఫోటోలు</string>
+    <string name="label_videos">వీడియోలు</string>
+    <string name="label_all">అన్నీ</string>
+    <string name="label_photo">ఫోటో</string>
+    <string name="label_video">వీడియో</string>
+    <string name="label_saved">సేవ్ అయింది</string>
+
+    <!-- Home tabs -->
+    <string name="tab_status">స్టేటస్</string>
+    <string name="tab_instagram">Instagram</string>
+    <string name="tab_videos">వీడియోలు</string>
+    <string name="tab_saved">సేవ్ చేసినవి</string>
+
+    <!-- Status tab -->
+    <string name="status_title">స్టేటస్ సేవర్</string>
+    <plurals name="status_subtitle_count">
+        <item quantity="one">%1$d స్టేటస్ • సేవ్ చేయడానికి ⬇ నొక్కండి</item>
+        <item quantity="other">%1$d స్టేటస్‌లు • సేవ్ చేయడానికి ⬇ నొక్కండి</item>
+    </plurals>
+    <string name="status_subtitle_default">WhatsApp ఫోటోలు &amp; వీడియోలు సేవ్ చేయండి</string>
+    <string name="status_source_unlocked">%1$s స్టేటస్‌లు అన్‌లాక్ అయ్యాయి</string>
+    <string name="status_storage_needed_title">స్టోరేజ్ అనుమతి కావాలి</string>
+    <string name="status_storage_needed_message">మీరు చూసిన WhatsApp స్టేటస్‌లను చూడటానికి, సేవ్ చేయడానికి స్టోరేజ్ యాక్సెస్ ఇవ్వండి.</string>
+    <string name="status_grant_permission">అనుమతి ఇవ్వండి</string>
+    <string name="status_empty_photos_title">ఇంకా ఫోటో స్టేటస్‌లు లేవు</string>
+    <string name="status_empty_videos_title">ఇంకా వీడియో స్టేటస్‌లు లేవు</string>
+    <string name="status_empty_message">WhatsApp ఓపెన్ చేసి, కొన్ని స్టేటస్‌లు చూసి, తిరిగి రండి. అవి ఇక్కడ ఆటోమేటిక్‌గా కనిపిస్తాయి.</string>
+    <string name="status_open_whatsapp">WhatsApp ఓపెన్ చేయండి</string>
+    <string name="status_saved_toast">మీ SaveVibe ఆల్బమ్‌లో సేవ్ అయింది</string>
+    <string name="status_save_failed">స్టేటస్ సేవ్ కాలేదు</string>
+    <string name="status_switcher_label">%1$s  %2$d</string>
+    <string name="status_also_show_source">%1$s స్టేటస్‌లు కూడా చూపించు</string>
+    <string name="status_business_badge">Business</string>
+    <string name="status_unlock_title">మీ స్టేటస్‌లను అన్‌లాక్ చేయండి</string>
+    <string name="status_unlock_message">మీరు చూసిన స్టేటస్‌లను Android ఒక ప్రైవేట్ WhatsApp ఫోల్డర్‌లో ఉంచుతుంది. ఒక్కసారి యాక్సెస్ ఇవ్వండి — 5 సెకన్లు చాలు.</string>
+    <string name="status_step_view">ముందుగా WhatsApp లో ఒక స్టేటస్ చూడండి</string>
+    <string name="status_step_tap">కింద ఉన్న బటన్ నొక్కండి</string>
+    <string name="status_step_allow">\"Use this folder\" → \"Allow\" నొక్కండి</string>
+    <string name="status_allow_source">%1$s అనుమతించండి</string>
+
+    <!-- Saved tab -->
+    <plurals name="saved_subtitle_count">
+        <item quantity="one">మీ గ్యాలరీలో %1$d ఫైల్</item>
+        <item quantity="other">మీ గ్యాలరీలో %1$d ఫైల్స్</item>
+    </plurals>
+    <string name="saved_empty_title">ఇంకా ఏమీ సేవ్ చేయలేదు</string>
+    <string name="saved_empty_message">మీరు సేవ్ చేసే స్టేటస్‌లు, డౌన్‌లోడ్ చేసే Instagram వీడియోలు ఇక్కడ కనిపిస్తాయి.</string>
+    <string name="saved_item_meta">%1$s • %2$s</string>
+    <string name="saved_delete_failed">డిలీట్ కాలేదు. మీ గ్యాలరీ యాప్ నుంచి తీసేయండి.</string>
+
+    <!-- Preview -->
+    <string name="preview_swipe_for_more">మరిన్నింటికి స్వైప్ చేయండి</string>
+    <string name="preview_position">%1$d / %2$d</string>
+    <string name="preview_save_to_gallery">గ్యాలరీలో సేవ్ చేయండి</string>
+
+    <!-- Splash -->
+    <string name="splash_logo_description">SaveVibe లోగో</string>
+    <string name="splash_tagline">స్టేటస్, Reels &amp; స్టోరీ సేవర్</string>
+    <string name="splash_footer">సేవ్ • రీపోస్ట్ • షేర్</string>
+
+    <!-- Ad-free -->
+    <string name="adfree_content_description">యాడ్-ఫ్రీ గంట</string>
+    <string name="adfree_no_video">ప్రస్తుతం వీడియో అందుబాటులో లేదు. కాసేపటి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="adfree_title_active">మీకు యాడ్స్ లేవు ✨</string>
+    <string name="adfree_title_offer">1 గంట యాడ్-ఫ్రీ పొందండి</string>
+    <plurals name="adfree_minutes_left">
+        <item quantity="one">తర్వాతి %1$d నిమిషం యాడ్స్ ఉండవు. ఎంజాయ్ చేయండి!</item>
+        <item quantity="other">తర్వాతి %1$d నిమిషాలు యాడ్స్ ఉండవు. ఎంజాయ్ చేయండి!</item>
+    </plurals>
+    <string name="adfree_offer_message">ఒక చిన్న వీడియో చూడండి, తర్వాతి గంట SaveVibe లో ఒక్క యాడ్ కూడా ఉండదు.</string>
+    <string name="adfree_watch_video">వీడియో చూడండి</string>
+    <string name="adfree_privacy_settings">యాడ్ ప్రైవసీ సెట్టింగ్స్</string>
+    <string name="adfree_great">సూపర్</string>
+    <string name="adfree_not_now">ఇప్పుడు వద్దు</string>
+    <string name="adfree_granted">1 గంట యాడ్స్ ఆఫ్ 🎉</string>
+
+    <!-- Media actions -->
+    <string name="media_no_app_to_open">ఈ ఫైల్ ఓపెన్ చేయడానికి యాప్ లేదు</string>
+    <string name="media_share_via">దీని ద్వారా షేర్ చేయండి</string>
+    <string name="media_whatsapp_not_installed">WhatsApp ఇన్‌స్టాల్ కాలేదు</string>
+    <string name="download_error_web_page">ఈ URL వీడియో ఫైల్ కాదు, వెబ్ పేజీ ఇచ్చింది. డైరెక్ట్ వీడియో లింక్ లేదా Instagram లింక్ వాడండి.</string>
+
+    <!-- Instagram -->
+    <string name="ig_logged_in_toast">Instagram లో లాగిన్ అయ్యారు</string>
+    <string name="ig_link_detected_toast">Instagram లింక్ కనిపించింది</string>
+    <string name="ig_header_title">Instagram సేవర్</string>
+    <string name="ig_header_subtitle_logged_in">లాగిన్ అయ్యారు • స్టోరీలు అన్‌లాక్</string>
+    <string name="ig_header_subtitle">Reels, పోస్ట్‌లు, ఫోటోలు &amp; స్టోరీలు</string>
+    <string name="ig_logout">లాగౌట్</string>
+    <string name="ig_login">లాగిన్</string>
+    <string name="ig_paste_link_hint">Instagram లింక్ ఇక్కడ పేస్ట్ చేయండి</string>
+    <string name="ig_cd_url">URL</string>
+    <string name="ig_cd_clear_link">లింక్ క్లియర్ చేయండి</string>
+    <string name="ig_paste">పేస్ట్</string>
+    <string name="ig_download">డౌన్‌లోడ్</string>
+    <string name="ig_caption_copied">క్యాప్షన్ కాపీ అయింది</string>
+    <string name="ig_stories">స్టోరీలు</string>
+    <string name="ig_stories_hint">ఒకరిని ట్యాప్ చేసి వారి స్టోరీలు చూసి సేవ్ చేయండి</string>
+    <string name="ig_cd_refresh_stories">స్టోరీలు రిఫ్రెష్ చేయండి</string>
+    <string name="ig_search">సెర్చ్</string>
+    <string name="ig_your_story">మీ స్టోరీ</string>
+    <string name="ig_no_new_stories">మీరు ఫాలో అయ్యేవారి నుంచి ప్రస్తుతం కొత్త స్టోరీలు లేవు. ఎవరినైనా వెతకడానికి సెర్చ్ వాడండి.</string>
+    <string name="ig_save_stories_title">Instagram స్టోరీలు సేవ్ చేయండి</string>
+    <string name="ig_save_stories_description">మీరు ఫాలో అయ్యేవారి స్టోరీలు చూసి, ఒక్క ట్యాప్‌తో సేవ్ చేయడానికి లాగిన్ అవ్వండి</string>
+    <string name="ig_fetching_post">పోస్ట్ తెస్తోంది…</string>
+    <string name="ig_downloading_progress">%2$d లో %1$d డౌన్‌లోడ్ అవుతోంది</string>
+    <string name="ig_downloading">డౌన్‌లోడ్ అవుతోంది…</string>
+    <string name="ig_percent">%1$d%%</string>
+    <string name="ig_cancel">రద్దు</string>
+    <string name="ig_video">వీడియో</string>
+    <plurals name="ig_saved_to_gallery_count">
+        <item quantity="one">%1$d గ్యాలరీలో సేవ్ అయింది</item>
+        <item quantity="other">%1$d గ్యాలరీలో సేవ్ అయ్యాయి</item>
+    </plurals>
+    <string name="ig_saved_to_location">సేవ్ అయిన చోటు: %1$s</string>
+    <string name="ig_cd_saved">సేవ్ అయింది</string>
+    <string name="ig_share">షేర్</string>
+    <string name="ig_caption">క్యాప్షన్</string>
+    <string name="ig_download_another">ఇంకోటి డౌన్‌లోడ్ చేయండి</string>
+    <string name="ig_couldnt_download">డౌన్‌లోడ్ కాలేదు</string>
+    <string name="ig_login_to_instagram">Instagram లో లాగిన్ అవ్వండి</string>
+    <string name="ig_dismiss">మూసేయండి</string>
+    <string name="ig_how_it_works">ఎలా పనిచేస్తుంది</string>
+    <string name="ig_howto_copy_title">లింక్ కాపీ చేయండి</string>
+    <string name="ig_howto_copy_text">Instagram లో ••• లేదా Share → Copy link నొక్కండి</string>
+    <string name="ig_howto_back_title">తిరిగి రండి</string>
+    <string name="ig_howto_back_text">లింక్ ఆటోమేటిక్‌గా నిండుతుంది — లేదా Share → SaveVibe వాడండి</string>
+    <string name="ig_howto_download_text">కరౌసెల్‌లోని ప్రతి ఫోటో &amp; వీడియో మీ గ్యాలరీలో సేవ్ అవుతుంది</string>
+    <string name="ig_howto_private_title">స్టోరీలు &amp; ప్రైవేట్ పోస్ట్‌లు</string>
+    <string name="ig_howto_private_logged_in">పైన స్టోరీలలో ఒకరిని ట్యాప్ చేయండి, లేదా ఏ యూజర్‌నేమ్ అయినా సెర్చ్ చేయండి</string>
+    <string name="ig_howto_private_logged_out">వాటిని అన్‌లాక్ చేయడానికి పైన లాగిన్ నొక్కండి</string>
+    <string name="ig_disclaimer">SaveVibe కి Instagram లేదా Meta తో సంబంధం లేదు. మీ సొంత కంటెంట్ లేదా అనుమతి ఉన్నది మాత్రమే డౌన్‌లోడ్ చేయండి.</string>
+    <string name="ig_error_paste_link">దయచేసి Instagram లేదా వీడియో లింక్ పేస్ట్ చేయండి</string>
+    <string name="ig_error_invalid_url">URL సరిగ్గా లేదు. సరైన లింక్ ఇవ్వండి</string>
+    <string name="ig_error_youtube">YouTube డౌన్‌లోడ్‌లు సపోర్ట్ కావు. Instagram లింక్ లేదా డైరెక్ట్ వీడియో లింక్ ప్రయత్నించండి.</string>
+    <string name="ig_error_use_videos_tab">ఈ ట్యాబ్ Instagram కోసం. ఇతర సైట్ల లింక్‌ని వీడియోలు ట్యాబ్‌లో ఓపెన్ చేయండి.</string>
+    <string name="ig_error_download_failed">డౌన్‌లోడ్ ఫెయిల్ అయింది</string>
+    <string name="ig_error_load_stories">స్టోరీలు లోడ్ కాలేదు</string>
+    <string name="ig_error_search_failed">సెర్చ్ ఫెయిల్ అయింది</string>
+    <string name="ig_error_load_profile">ప్రొఫైల్ లోడ్ కాలేదు</string>
+    <string name="ig_error_load_highlights">హైలైట్స్ లోడ్ కాలేదు</string>
+    <string name="ig_error_profile_photo">ప్రొఫైల్ ఫోటో దొరకలేదు</string>
+    <string name="ig_error_save">సేవ్ కాలేదు: %1$s</string>
+    <string name="ig_error_share_link">ఈ షేర్ లింక్ ఓపెన్ కాలేదు. Instagram నుంచి లింక్ మళ్లీ కాపీ చేయండి.</string>
+    <string name="ig_error_unsupported_link">ఈ Instagram లింక్ సపోర్ట్ కాదు. పోస్ట్, reel, వీడియో లేదా స్టోరీ లింక్ వాడండి.</string>
+    <string name="ig_error_invalid_link">Instagram లింక్ సరిగ్గా లేదు</string>
+    <string name="ig_error_private_or_deleted">ఈ పోస్ట్ ప్రైవేట్ లేదా డిలీట్ అయింది.</string>
+    <string name="ig_error_private_login">ఈ పోస్ట్ ప్రైవేట్. మీరు ఫాలో అయ్యే అకౌంట్ల పోస్ట్‌లు డౌన్‌లోడ్ చేయడానికి Instagram లో లాగిన్ అవ్వండి.</string>
+    <string name="ig_error_not_returned">Instagram ఈ పోస్ట్ ఇవ్వలేదు. ఇది ప్రైవేట్ కావచ్చు, లేదా Instagram డౌన్‌లోడ్‌లను పరిమితం చేస్తోంది. Instagram లో లాగిన్ అయ్యి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="ig_error_login_stories">స్టోరీలు డౌన్‌లోడ్ చేయడానికి Instagram లో లాగిన్ అవ్వండి.</string>
+    <string name="ig_error_user_not_found">@%1$s దొరకలేదు.</string>
+    <string name="ig_error_login_stories_highlights">స్టోరీలు, హైలైట్స్ డౌన్‌లోడ్ చేయడానికి Instagram లో లాగిన్ అవ్వండి.</string>
+    <string name="ig_error_story_expired">ఈ స్టోరీ ఎక్స్‌పైర్ అయింది లేదా మీ అకౌంట్‌కి కనిపించదు.</string>
+    <string name="ig_error_story_no_media">ఈ స్టోరీలో డౌన్‌లోడ్ చేయగల మీడియా లేదు.</string>
+    <string name="ig_error_login_see_stories">స్టోరీలు చూడటానికి Instagram లో లాగిన్ అవ్వండి.</string>
+    <string name="ig_error_login_search">అకౌంట్లు సెర్చ్ చేయడానికి Instagram లో లాగిన్ అవ్వండి.</string>
+    <string name="ig_error_login_profiles">ప్రొఫైల్స్ చూడటానికి Instagram లో లాగిన్ అవ్వండి.</string>
+    <string name="ig_error_profile_not_found">@%1$s దొరకలేదు.</string>
+    <string name="ig_error_login_profile_photos">ప్రొఫైల్ ఫోటోలు సేవ్ చేయడానికి Instagram లో లాగిన్ అవ్వండి.</string>
+    <string name="ig_error_load_profile_photo">ప్రొఫైల్ ఫోటో లోడ్ కాలేదు.</string>
+    <string name="ig_error_login_highlights">హైలైట్స్ చూడటానికి Instagram లో లాగిన్ అవ్వండి.</string>
+    <string name="ig_error_load_highlights_dot">హైలైట్స్ లోడ్ కాలేదు.</string>
+    <string name="ig_error_load_stories_dot">స్టోరీలు లోడ్ కాలేదు.</string>
+    <string name="ig_error_search_failed_dot">సెర్చ్ ఫెయిల్ అయింది.</string>
+    <string name="ig_error_session_expired">మీ Instagram సెషన్ ఎక్స్‌పైర్ అయింది. దయచేసి మళ్లీ లాగిన్ అవ్వండి.</string>
+    <string name="ig_error_slow_down">కాస్త నెమ్మదించమని Instagram అడుగుతోంది. కొన్ని నిమిషాలు ఆగి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="ig_error_post_no_media">ఈ పోస్ట్‌లో డౌన్‌లోడ్ చేయగల ఫోటో లేదా వీడియో లేదు.</string>
+    <string name="ig_error_timeout">Instagram స్పందించడానికి చాలా సమయం తీసుకుంటోంది. మీ కనెక్షన్ చెక్ చేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="ig_error_unreachable">Instagram ని చేరుకోలేకపోయాం. మీ ఇంటర్నెట్ కనెక్షన్ చెక్ చేయండి.</string>
+    <string name="ig_error_network">Instagram ని సంప్రదిస్తున్నప్పుడు నెట్‌వర్క్ ఎర్రర్ (%1$s)</string>
+    <plurals name="ig_error_rate_limited">
+        <item quantity="one">ప్రస్తుతం Instagram మీ అకౌంట్ నుంచి వచ్చే రిక్వెస్ట్‌లను పరిమితం చేస్తోంది. సుమారు %1$d నిమిషం ఆగి మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="other">ప్రస్తుతం Instagram మీ అకౌంట్ నుంచి వచ్చే రిక్వెస్ట్‌లను పరిమితం చేస్తోంది. సుమారు %1$d నిమిషాలు ఆగి మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <string name="ig_login_title">Instagram లో లాగిన్ అవ్వండి</string>
+    <string name="ig_cd_close">మూసేయండి</string>
+    <string name="ig_cd_secure_page">సురక్షితమైన Instagram పేజీ</string>
+    <string name="ig_cd_back">వెనక్కి</string>
+    <string name="ig_search_hint">Instagram యూజర్‌నేమ్ సెర్చ్ చేయండి</string>
+    <string name="ig_cd_clear">క్లియర్</string>
+    <string name="ig_search_empty_title">అకౌంట్ వెతకండి</string>
+    <string name="ig_search_empty_message">స్టోరీలు, హైలైట్స్, HD ప్రొఫైల్ ఫోటో చూడటానికి యూజర్‌నేమ్ సెర్చ్ చేయండి.</string>
+    <string name="ig_search_no_results_title">అకౌంట్లు ఏవీ దొరకలేదు</string>
+    <string name="ig_search_no_results_message">వేరే యూజర్‌నేమ్ ప్రయత్నించండి, లేదా @%1$s ఓపెన్ చేయడానికి సెర్చ్ నొక్కండి.</string>
+    <string name="ig_cd_private">ప్రైవేట్</string>
+    <string name="ig_profile_error_title">@%1$s ఓపెన్ కాలేదు</string>
+    <string name="ig_try_again_message">దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="ig_try_again">మళ్లీ ప్రయత్నించండి</string>
+    <string name="ig_highlight">హైలైట్</string>
+    <string name="ig_current_stories">ప్రస్తుత స్టోరీలు</string>
+    <string name="ig_save_all">అన్నీ సేవ్ చేయండి (%1$d)</string>
+    <string name="ig_all_saved">అన్నీ సేవ్ అయ్యాయి</string>
+    <string name="ig_couldnt_load">లోడ్ కాలేదు</string>
+    <string name="ig_private_account">ప్రైవేట్ అకౌంట్</string>
+    <string name="ig_no_active_stories">యాక్టివ్ స్టోరీలు లేవు</string>
+    <string name="ig_private_account_message">మీరు ఫాలో అయ్యే ప్రైవేట్ అకౌంట్ల స్టోరీలు మాత్రమే చూడగలరు.</string>
+    <string name="ig_no_active_stories_message">స్టోరీలు 24 గంటల తర్వాత మాయమవుతాయి. పైన హైలైట్స్ చూడండి.</string>
+    <string name="ig_profile_photo_saved">ప్రొఫైల్ ఫోటో సేవ్ అయింది</string>
+    <string name="ig_saving">సేవ్ అవుతోంది…</string>
+    <string name="ig_save_hd_profile_photo">HD ప్రొఫైల్ ఫోటో సేవ్ చేయండి</string>
+    <string name="ig_loading">లోడ్ అవుతోంది…</string>
+    <string name="ig_highlights">హైలైట్స్</string>
+    <string name="ig_no_highlights">హైలైట్స్ లేవు</string>
+    <string name="ig_save_to_gallery">గ్యాలరీలో సేవ్ చేయండి</string>
+
+    <!-- Browser -->
+    <string name="browser_home">హోమ్</string>
+    <string name="browser_address_placeholder">వీడియో లింక్ పేస్ట్ చేయండి లేదా సెర్చ్ చేయండి</string>
+    <string name="browser_clear">క్లియర్</string>
+    <string name="browser_reload">రీలోడ్</string>
+    <plurals name="browser_video_count">
+        <item quantity="one">%1$d వీడియో</item>
+        <item quantity="other">%1$d వీడియోలు</item>
+    </plurals>
+    <string name="browser_sheet_title">ఈ పేజీలోని వీడియోలు</string>
+    <string name="browser_sheet_description">వీడియో ప్లే చేస్తే దాన్ని కనిపెట్టడం సులువు. గ్యాలరీలో సేవ్ చేయడానికి ఒకటి ఎంచుకోండి.</string>
+    <string name="browser_video_untitled">వీడియో</string>
+    <string name="browser_hd_stream">HD స్ట్రీమ్</string>
+    <string name="browser_play">ప్లే</string>
+    <string name="browser_share">షేర్</string>
+    <string name="browser_home_title">ఏ సైట్ నుంచైనా వీడియోలు డౌన్‌లోడ్ చేయండి</string>
+    <string name="browser_home_description">సైట్ ఓపెన్ చేసి, వీడియో ప్లే చేసి, కనిపించే ⬇ బటన్ నొక్కండి.</string>
+    <string name="browser_paste_and_open">లింక్ పేస్ట్ చేసి ఓపెన్ చేయండి</string>
+    <string name="browser_popular_sites">పాపులర్ సైట్లు</string>
+    <string name="browser_how_it_works">ఎలా పనిచేస్తుంది</string>
+    <string name="browser_step_open">సైట్ ఓపెన్ చేయండి లేదా వీడియో లింక్ పేస్ట్ చేయండి</string>
+    <string name="browser_step_play">మీకు కావాల్సిన వీడియో ప్లే చేయండి</string>
+    <string name="browser_step_save">⬇ నొక్కి దాన్ని ఎంచుకోండి — గ్యాలరీలో సేవ్ అవుతుంది</string>
+    <string name="browser_disclaimer">SaveVibe కి ఈ సైట్లలో దేనితోనూ సంబంధం లేదు. YouTube సపోర్ట్ కాదు. మీ సొంత వీడియోలు లేదా అనుమతి ఉన్నవి మాత్రమే డౌన్‌లోడ్ చేయండి.</string>
+    <string name="browser_youtube_blocked">YouTube సపోర్ట్ కాదు. Facebook, X, TikTok, Vimeo లాంటివి ప్రయత్నించండి.</string>
+    <string name="browser_download_failed">డౌన్‌లోడ్ ఫెయిల్ అయింది</string>
+    <string name="browser_error_drm">ఈ వీడియో DRM-రక్షితం, డౌన్‌లోడ్ చేయలేం.</string>
+    <string name="browser_error_no_parts">ఈ స్ట్రీమ్‌లో డౌన్‌లోడ్ చేయగల భాగాలు లేవు.</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SaveVibe icon: heart with a cut-out download arrow + sparkles (fits the 66dp safe zone).
+     The arrow is a hole (evenOdd) so it also works as the monochrome/themed icon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="1.1"
+        android:scaleY="1.1">
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:fillType="evenOdd"
+            android:pathData="M54,75 C54,75 31,61.5 31,46.5 C31,39.3 36.7,33.5 43.7,33.5 C48.1,33.5 51.9,35.9 54,39.4 C56.1,35.9 59.9,33.5 64.3,33.5 C71.3,33.5 77,39.3 77,46.5 C77,61.5 54,75 54,75 Z M51.7,42.5 L56.3,42.5 L56.3,52.6 L60.4,48.5 L63.6,51.7 L54,61.3 L44.4,51.7 L47.6,48.5 L51.7,52.6 Z" />
+    </group>
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M74,26 Q75.08,30.92 80,32 Q75.08,33.08 74,38 Q72.92,33.08 68,32 Q72.92,30.92 74,26 Z" />
+    <path
+        android:fillColor="#D9FFFFFF"
+        android:pathData="M34,69.5 Q34.63,72.37 37.5,73 Q34.63,73.63 34,76.5 Q33.37,73.63 30.5,73 Q33.37,72.37 34,69.5 Z" />
+</vector>
