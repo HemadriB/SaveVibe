@@ -19,13 +19,17 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.outlined.Collections
+import androidx.compose.material.icons.outlined.ContentCut
 import androidx.compose.material.icons.outlined.DonutLarge
 import androidx.compose.material.icons.outlined.SlowMotionVideo
 import androidx.compose.material.icons.outlined.VideoLibrary
+import androidx.compose.material.icons.rounded.ContentCut
 import androidx.compose.material.icons.rounded.VideoLibrary
 import com.statushub.instagram.InstagramLinks
 import com.statushub.ui.browser.BrowserScreen
+import com.statushub.ui.splitter.VideoSplitterScreen
 import com.statushub.viewmodel.BrowserViewModel
+import com.statushub.viewmodel.VideoSplitterViewModel
 import androidx.compose.material.icons.rounded.Collections
 import androidx.compose.material.icons.rounded.DonutLarge
 import androidx.compose.material.icons.rounded.SlowMotionVideo
@@ -68,6 +72,7 @@ private enum class HomeTab(
 ) {
     STATUS(R.string.tab_status, Icons.Rounded.DonutLarge, Icons.Outlined.DonutLarge, SunsetOrangeDeep),
     DOWNLOADER(R.string.tab_instagram, Icons.Rounded.SlowMotionVideo, Icons.Outlined.SlowMotionVideo, SunsetPink),
+    SPLITTER(R.string.tab_splitter, Icons.Rounded.ContentCut, Icons.Outlined.ContentCut, Color(0xFFE91E63)),
     BROWSER(R.string.tab_videos, Icons.Rounded.VideoLibrary, Icons.Outlined.VideoLibrary, Color(0xFFB4359E)),
     SAVED(R.string.tab_saved, Icons.Rounded.Collections, Icons.Outlined.Collections, SunsetPurple)
 }
@@ -86,7 +91,8 @@ fun HomeScreen(
     onOpenInstagramSearch: () -> Unit = {},
     downloadViewModel: VideoDownloadViewModel = viewModel(),
     savedViewModel: SavedViewModel = viewModel(),
-    browserViewModel: BrowserViewModel = viewModel()
+    browserViewModel: BrowserViewModel = viewModel(),
+    splitterViewModel: VideoSplitterViewModel = viewModel()
 ) {
     var selectedTab by rememberSaveable { mutableIntStateOf(HomeTab.STATUS.ordinal) }
 
@@ -172,6 +178,10 @@ fun HomeScreen(
                         viewModel = downloadViewModel,
                         onOpenProfile = onOpenInstagramProfile,
                         onOpenSearch = onOpenInstagramSearch
+                    )
+                    HomeTab.SPLITTER -> VideoSplitterScreen(
+                        viewModel = splitterViewModel,
+                        onBack = { selectedTab = HomeTab.STATUS.ordinal }
                     )
                     HomeTab.BROWSER -> BrowserScreen(
                         viewModel = browserViewModel,

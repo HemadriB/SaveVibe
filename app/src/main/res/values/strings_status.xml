@@ -88,4 +88,28 @@
     <string name="media_share_via">Share via</string>
     <string name="media_whatsapp_not_installed">WhatsApp is not installed</string>
     <string name="download_error_web_page">The URL returned a web page, not a video file. Use a direct video link or an Instagram link.</string>
+
+    <!-- Video Splitter -->
+    <string name="splitter_title">Video Splitter</string>
+    <string name="splitter_subtitle">Split videos into WhatsApp status clips</string>
+    <string name="splitter_pick_video">Select a video to split</string>
+    <string name="splitter_duration">Duration: %1$s</string>
+    <string name="splitter_choose_video">Choose video</string>
+    <string name="splitter_change_video">Change video</string>
+    <string name="splitter_clip_length">Clip length</string>
+    <string name="splitter_will_create">Will create %1$d clips of %2$ds each</string>
+    <string name="splitter_split_now">Split into clips</string>
+    <string name="splitter_splitting">Splitting video…</string>
+    <string name="splitter_progress">Clip %1$d of %2$d</string>
+    <string name="splitter_done">%1$d clips ready!</string>
+    <string name="splitter_save_all">Save all to Gallery</string>
+    <string name="splitter_all_saved">All saved ✓</string>
+    <string name="splitter_saving_all">Saving all clips to Gallery…</string>
+    <string name="splitter_split_another">Split another video</string>
+    <string name="splitter_how_title">How it works</string>
+    <string name="splitter_how_step1">Pick any video from your gallery</string>
+    <string name="splitter_how_step2">Choose clip length (15s, 30s, 45s, 60s)</string>
+    <string name="splitter_how_step3">Tap "Split" — clips are created instantly</string>
+    <string name="splitter_how_step4">Save or share clips directly to WhatsApp status</string>
+    <string name="tab_splitter">Splitter</string>
 </resources>
