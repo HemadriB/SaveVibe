@@ -22,7 +22,7 @@ object GallerySaver {
 
     private const val TAG = "GallerySaver"
     /** Album name for everything the app saves (statuses and downloads) */
-    const val GALLERY_FOLDER = "SaveVibe"
+    const val GALLERY_FOLDER = "ASaveVibe"
 
     /** Folder names used by earlier versions; still shown in the Saved tab */
     val LEGACY_FOLDERS = listOf("StatusHub", "StatusSaver")

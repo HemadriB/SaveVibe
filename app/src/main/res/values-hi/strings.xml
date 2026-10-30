@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="share_target_label">SaveVibe से डाउनलोड करें</string>
-    <string name="not_affiliated">SaveVibe का WhatsApp, Instagram या Meta से कोई संबंध नहीं है।</string>
+    <string name="share_target_label">ASaveVibe से डाउनलोड करें</string>
+    <string name="not_affiliated">ASaveVibe का WhatsApp, Instagram या Meta से कोई संबंध नहीं है।</string>
     <string name="status_wrong_folder">यह WhatsApp status फ़ोल्डर नहीं है। फ़ोल्डर बदले बिना \"इस फ़ोल्डर का इस्तेमाल करें\" पर टैप करें।</string>
 
     <string name="onboarding_skip">छोड़ें</string>
@@ -11,11 +11,11 @@
     <string name="onboarding_status_title">पसंदीदा status\nसेव करें</string>
     <string name="onboarding_status_description">आपके देखे हुए WhatsApp status की फ़ोटो और वीडियो — एक टैप में गैलरी में सेव।</string>
     <string name="onboarding_reels_title">Reels, वीडियो\n&amp; स्टोरी</string>
-    <string name="onboarding_reels_description">लिंक कॉपी करें या Share → SaveVibe पर टैप करें। फ़ोटो और वीडियो HD में सेव, रीपोस्ट के लिए तैयार।</string>
+    <string name="onboarding_reels_description">लिंक कॉपी करें या Share → ASaveVibe पर टैप करें। फ़ोटो और वीडियो HD में सेव, रीपोस्ट के लिए तैयार।</string>
     <string name="onboarding_setup_title">अपने status अनलॉक करें</string>
     <string name="onboarding_setup_description">बस एक छोटा सा कदम: Android आपके देखे हुए status एक प्राइवेट WhatsApp फ़ोल्डर में रखता है। एक बार अनुमति दें — सिर्फ़ 5 सेकंड लगेंगे।</string>
     <string name="onboarding_setup_done_title">सब तैयार है!</string>
-    <string name="onboarding_setup_done_description">WhatsApp में देखे गए status अब अपने-आप SaveVibe में दिखेंगे।</string>
+    <string name="onboarding_setup_done_description">WhatsApp में देखे गए status अब अपने-आप ASaveVibe में दिखेंगे।</string>
     <string name="onboarding_setup_no_whatsapp">इस फ़ोन में WhatsApp इंस्टॉल नहीं है। आप फिर भी किसी भी लिंक से Reels और वीडियो सेव कर सकते हैं।</string>
     <string name="onboarding_allow_source">%1$s की अनुमति दें</string>
     <string name="onboarding_source_unlocked">%1$s अनलॉक हो गया</string>
@@ -28,13 +28,13 @@
     <string name="settings_more">और विकल्प</string>
     <string name="settings_new_status_alerts">नए status के अलर्ट</string>
     <string name="settings_auto_save">नए status अपने-आप सेव करें</string>
-    <string name="settings_share_app">SaveVibe शेयर करें</string>
-    <string name="settings_rate_app">SaveVibe को रेट करें</string>
+    <string name="settings_share_app">ASaveVibe शेयर करें</string>
+    <string name="settings_rate_app">ASaveVibe को रेट करें</string>
     <string name="settings_language">ऐप की भाषा</string>
     <string name="settings_privacy_policy">प्राइवेसी पॉलिसी</string>
 
-    <string name="share_app_title">SaveVibe शेयर करें</string>
-    <string name="share_app_message">मैं SaveVibe से WhatsApp status और Reels सेव करता/करती हूँ — फ़्री और तेज़: %1$s</string>
+    <string name="share_app_title">ASaveVibe शेयर करें</string>
+    <string name="share_app_message">मैं ASaveVibe से WhatsApp status और Reels सेव करता/करती हूँ — फ़्री और तेज़: %1$s</string>
     <string name="share_reward_granted">शेयर करने के लिए धन्यवाद! अगले 24 घंटे कोई विज्ञापन नहीं 🎉</string>
 
     <string name="notification_channel_name">नए status</string>
@@ -49,7 +49,7 @@
         <item quantity="other">%1$d नए status आपकी गैलरी में सेव हुए</item>
     </plurals>
 
-    <string name="widget_label">SaveVibe status</string>
+    <string name="widget_label">ASaveVibe status</string>
     <string name="widget_description">देखें कि कितने नए status इंतज़ार कर रहे हैं</string>
     <string name="widget_subtitle">देखने और सेव करने के लिए टैप करें</string>
     <string name="widget_no_new_statuses">कोई नया status नहीं</string>
@@ -91,7 +91,7 @@
     <string name="status_empty_videos_title">अभी कोई वीडियो status नहीं</string>
     <string name="status_empty_message">WhatsApp खोलें, कुछ status देखें, फिर वापस आएँ। वे यहाँ अपने-आप दिख जाएँगे।</string>
     <string name="status_open_whatsapp">WhatsApp खोलें</string>
-    <string name="status_saved_toast">आपके SaveVibe एल्बम में सेव हो गया</string>
+    <string name="status_saved_toast">आपके ASaveVibe एल्बम में सेव हो गया</string>
     <string name="status_save_failed">status सेव नहीं हो सका</string>
     <string name="status_switcher_label">%1$s  %2$d</string>
     <string name="status_also_show_source">%1$s के status भी दिखाएँ</string>
@@ -116,7 +116,7 @@
     <string name="preview_position">%1$d / %2$d</string>
     <string name="preview_save_to_gallery">गैलरी में सेव करें</string>
 
-    <string name="splash_logo_description">SaveVibe लोगो</string>
+    <string name="splash_logo_description">ASaveVibe लोगो</string>
     <string name="splash_tagline">Status, Reels &amp; स्टोरी सेवर</string>
     <string name="splash_footer">सेव • रीपोस्ट • शेयर</string>
 
@@ -128,7 +128,7 @@
         <item quantity="one">अगले %1$d मिनट कोई विज्ञापन नहीं। मज़े करें!</item>
         <item quantity="other">अगले %1$d मिनट कोई विज्ञापन नहीं। मज़े करें!</item>
     </plurals>
-    <string name="adfree_offer_message">एक छोटा वीडियो देखें और अगले एक घंटे SaveVibe में कोई विज्ञापन नहीं दिखेगा।</string>
+    <string name="adfree_offer_message">एक छोटा वीडियो देखें और अगले एक घंटे ASaveVibe में कोई विज्ञापन नहीं दिखेगा।</string>
     <string name="adfree_watch_video">वीडियो देखें</string>
     <string name="adfree_privacy_settings">विज्ञापन प्राइवेसी सेटिंग</string>
     <string name="adfree_great">बढ़िया</string>
@@ -184,12 +184,12 @@
     <string name="ig_howto_copy_title">लिंक कॉपी करें</string>
     <string name="ig_howto_copy_text">Instagram में ••• या Share → Copy link पर टैप करें</string>
     <string name="ig_howto_back_title">वापस आएँ</string>
-    <string name="ig_howto_back_text">लिंक अपने-आप भर जाएगा — या Share → SaveVibe इस्तेमाल करें</string>
+    <string name="ig_howto_back_text">लिंक अपने-आप भर जाएगा — या Share → ASaveVibe इस्तेमाल करें</string>
     <string name="ig_howto_download_text">कैरोसेल की हर फ़ोटो &amp; वीडियो आपकी गैलरी में सेव होती है</string>
     <string name="ig_howto_private_title">स्टोरी &amp; प्राइवेट पोस्ट</string>
     <string name="ig_howto_private_logged_in">ऊपर Stories में किसी पर टैप करें, या कोई भी username खोजें</string>
     <string name="ig_howto_private_logged_out">इन्हें अनलॉक करने के लिए ऊपर लॉग इन पर टैप करें</string>
-    <string name="ig_disclaimer">SaveVibe का Instagram या Meta से कोई संबंध नहीं है। सिर्फ़ वही कंटेंट डाउनलोड करें जो आपका है या जिसे सेव करने की आपको अनुमति है।</string>
+    <string name="ig_disclaimer">ASaveVibe का Instagram या Meta से कोई संबंध नहीं है। सिर्फ़ वही कंटेंट डाउनलोड करें जो आपका है या जिसे सेव करने की आपको अनुमति है।</string>
     <string name="ig_error_paste_link">कृपया Instagram या वीडियो लिंक पेस्ट करें</string>
     <string name="ig_error_invalid_url">गलत URL। कृपया सही लिंक डालें</string>
     <string name="ig_error_youtube">YouTube डाउनलोड सपोर्ट नहीं है। Instagram लिंक या सीधा वीडियो लिंक आज़माएँ।</string>
@@ -286,7 +286,7 @@
     <string name="browser_step_open">कोई साइट खोलें या वीडियो लिंक पेस्ट करें</string>
     <string name="browser_step_play">जो वीडियो चाहिए उसे चलाएँ</string>
     <string name="browser_step_save">⬇ पर टैप करके उसे चुनें — गैलरी में सेव</string>
-    <string name="browser_disclaimer">SaveVibe का इनमें से किसी साइट से कोई संबंध नहीं है। YouTube सपोर्ट नहीं है। सिर्फ़ वही वीडियो डाउनलोड करें जो आपके हैं या जिन्हें सेव करने की अनुमति है।</string>
+    <string name="browser_disclaimer">ASaveVibe का इनमें से किसी साइट से कोई संबंध नहीं है। YouTube सपोर्ट नहीं है। सिर्फ़ वही वीडियो डाउनलोड करें जो आपके हैं या जिन्हें सेव करने की अनुमति है।</string>
     <string name="browser_youtube_blocked">YouTube सपोर्ट नहीं है। Facebook, X, TikTok, Vimeo और भी आज़माएँ।</string>
     <string name="browser_download_failed">डाउनलोड नहीं हो सका</string>
     <string name="browser_error_drm">यह वीडियो DRM से सुरक्षित है और डाउनलोड नहीं हो सकता।</string>

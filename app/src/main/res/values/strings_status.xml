@@ -35,7 +35,7 @@
     <string name="status_empty_videos_title">No video statuses yet</string>
     <string name="status_empty_message">Open WhatsApp, watch some statuses, then come back. They\'ll show up here automatically.</string>
     <string name="status_open_whatsapp">Open WhatsApp</string>
-    <string name="status_saved_toast">Saved to your SaveVibe album</string>
+    <string name="status_saved_toast">Saved to your ASaveVibe album</string>
     <string name="status_save_failed">Failed to save status</string>
     <string name="status_switcher_label">%1$s  %2$d</string>
     <string name="status_also_show_source">Also show %1$s statuses</string>
@@ -63,7 +63,7 @@
     <string name="preview_save_to_gallery">Save to Gallery</string>
 
     <!-- Splash -->
-    <string name="splash_logo_description">SaveVibe logo</string>
+    <string name="splash_logo_description">ASaveVibe logo</string>
     <string name="splash_tagline">Status, Reels &amp; Story Saver</string>
     <string name="splash_footer">Save • Repost • Share</string>
 
@@ -76,7 +76,7 @@
         <item quantity="one">No ads for the next %1$d minute. Enjoy!</item>
         <item quantity="other">No ads for the next %1$d minutes. Enjoy!</item>
     </plurals>
-    <string name="adfree_offer_message">Watch one short video and SaveVibe shows no ads at all for the next hour.</string>
+    <string name="adfree_offer_message">Watch one short video and ASaveVibe shows no ads at all for the next hour.</string>
     <string name="adfree_watch_video">Watch video</string>
     <string name="adfree_privacy_settings">Ad privacy settings</string>
     <string name="adfree_great">Great</string>

@@ -21,7 +21,7 @@
     <string name="browser_step_open">Open a site or paste a video link</string>
     <string name="browser_step_play">Play the video you want</string>
     <string name="browser_step_save">Tap ⬇ and pick it — saved to your gallery</string>
-    <string name="browser_disclaimer">SaveVibe is not affiliated with any of these sites. YouTube isn\'t supported. Only download videos you own or have permission to save.</string>
+    <string name="browser_disclaimer">ASaveVibe is not affiliated with any of these sites. YouTube isn\'t supported. Only download videos you own or have permission to save.</string>
     <string name="browser_youtube_blocked">YouTube isn\'t supported. Try Facebook, X, TikTok, Vimeo and more.</string>
     <string name="browser_download_failed">Download failed</string>
     <string name="browser_error_drm">This video is DRM-protected and can\'t be downloaded.</string>

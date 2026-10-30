@@ -43,12 +43,12 @@
     <string name="ig_howto_copy_title">Copy link</string>
     <string name="ig_howto_copy_text">In Instagram tap ••• or Share → Copy link</string>
     <string name="ig_howto_back_title">Come back</string>
-    <string name="ig_howto_back_text">The link is filled in automatically — or use Share → SaveVibe</string>
+    <string name="ig_howto_back_text">The link is filled in automatically — or use Share → ASaveVibe</string>
     <string name="ig_howto_download_text">Every photo &amp; video of a carousel is saved to your Gallery</string>
     <string name="ig_howto_private_title">Stories &amp; private posts</string>
     <string name="ig_howto_private_logged_in">Tap a person in Stories above, or Search any username</string>
     <string name="ig_howto_private_logged_out">Tap Login above to unlock them</string>
-    <string name="ig_disclaimer">SaveVibe is not affiliated with Instagram or Meta. Only download content you own or have permission to save.</string>
+    <string name="ig_disclaimer">ASaveVibe is not affiliated with Instagram or Meta. Only download content you own or have permission to save.</string>
     <string name="ig_error_paste_link">Please paste an Instagram or video link</string>
     <string name="ig_error_invalid_url">Invalid URL. Please enter a valid link</string>
     <string name="ig_error_youtube">YouTube downloads are not supported. Try an Instagram link or a direct video link.</string>

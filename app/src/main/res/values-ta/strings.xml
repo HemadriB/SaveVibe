@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="share_target_label">SaveVibe-ல் download செய்</string>
-    <string name="not_affiliated">SaveVibe-க்கும் WhatsApp, Instagram அல்லது Meta-வுக்கும் எந்தத் தொடர்பும் இல்லை.</string>
+    <string name="share_target_label">ASaveVibe-ல் download செய்</string>
+    <string name="not_affiliated">ASaveVibe-க்கும் WhatsApp, Instagram அல்லது Meta-வுக்கும் எந்தத் தொடர்பும் இல்லை.</string>
     <string name="status_wrong_folder">இது WhatsApp status folder இல்லை. Folder-ஐ மாற்றாமல் \"Use this folder\"-ஐ tap செய்யுங்கள்.</string>
 
     <!-- Onboarding -->
@@ -12,11 +12,11 @@
     <string name="onboarding_status_title">பிடித்த status-களை\nசேமியுங்கள்</string>
     <string name="onboarding_status_description">நீங்கள் பார்த்த WhatsApp status photo, video-க்களை ஒரே tap-ல் gallery-யில் சேமியுங்கள்.</string>
     <string name="onboarding_reels_title">Reels, videos\n&amp; stories</string>
-    <string name="onboarding_reels_description">Link-ஐ copy செய்யுங்கள் அல்லது Share → SaveVibe tap செய்யுங்கள். Photo, video-க்கள் HD-யில் சேமிக்கப்படும், repost செய்யத் தயார்.</string>
+    <string name="onboarding_reels_description">Link-ஐ copy செய்யுங்கள் அல்லது Share → ASaveVibe tap செய்யுங்கள். Photo, video-க்கள் HD-யில் சேமிக்கப்படும், repost செய்யத் தயார்.</string>
     <string name="onboarding_setup_title">உங்கள் status-களைத் திறங்கள்</string>
     <string name="onboarding_setup_description">ஒரே ஒரு படி: நீங்கள் பார்த்த status-களை Android ஒரு private WhatsApp folder-ல் வைக்கிறது. ஒருமுறை அனுமதி கொடுங்கள் — 5 வினாடிதான் ஆகும்.</string>
     <string name="onboarding_setup_done_title">எல்லாம் தயார்!</string>
-    <string name="onboarding_setup_done_description">WhatsApp-ல் நீங்கள் பார்க்கும் status-கள் இனி தானாகவே SaveVibe-ல் தோன்றும்.</string>
+    <string name="onboarding_setup_done_description">WhatsApp-ல் நீங்கள் பார்க்கும் status-கள் இனி தானாகவே ASaveVibe-ல் தோன்றும்.</string>
     <string name="onboarding_setup_no_whatsapp">இந்த phone-ல் WhatsApp install செய்யப்படவில்லை. எந்த link-லிருந்தும் Reels, video-க்களை இன்னும் சேமிக்கலாம்.</string>
     <string name="onboarding_allow_source">%1$s-ஐ அனுமதி</string>
     <string name="onboarding_source_unlocked">%1$s திறக்கப்பட்டது</string>
@@ -30,14 +30,14 @@
     <string name="settings_more">மேலும் விருப்பங்கள்</string>
     <string name="settings_new_status_alerts">புதிய status அறிவிப்புகள்</string>
     <string name="settings_auto_save">புதிய status-களைத் தானாகச் சேமி</string>
-    <string name="settings_share_app">SaveVibe-ஐப் பகிர்</string>
-    <string name="settings_rate_app">SaveVibe-ஐ மதிப்பிடு</string>
+    <string name="settings_share_app">ASaveVibe-ஐப் பகிர்</string>
+    <string name="settings_rate_app">ASaveVibe-ஐ மதிப்பிடு</string>
     <string name="settings_language">App மொழி</string>
     <string name="settings_privacy_policy">தனியுரிமைக் கொள்கை</string>
 
     <!-- Sharing -->
-    <string name="share_app_title">SaveVibe-ஐப் பகிர்</string>
-    <string name="share_app_message">நான் WhatsApp status, Reels-ஐ SaveVibe மூலம் சேமிக்கிறேன் — இலவசம், வேகம்: %1$s</string>
+    <string name="share_app_title">ASaveVibe-ஐப் பகிர்</string>
+    <string name="share_app_message">நான் WhatsApp status, Reels-ஐ ASaveVibe மூலம் சேமிக்கிறேன் — இலவசம், வேகம்: %1$s</string>
     <string name="share_reward_granted">பகிர்ந்ததற்கு நன்றி! அடுத்த 24 மணி நேரம் விளம்பரம் இல்லை 🎉</string>
 
     <!-- New status alerts -->
@@ -54,7 +54,7 @@
     </plurals>
 
     <!-- Widget -->
-    <string name="widget_label">SaveVibe status-கள்</string>
+    <string name="widget_label">ASaveVibe status-கள்</string>
     <string name="widget_description">எத்தனை புதிய status-கள் காத்திருக்கின்றன என்று பாருங்கள்</string>
     <string name="widget_subtitle">பார்த்துச் சேமிக்க tap செய்யுங்கள்</string>
     <string name="widget_no_new_statuses">புதிய status இல்லை</string>
@@ -98,7 +98,7 @@
     <string name="status_empty_videos_title">இன்னும் video status இல்லை</string>
     <string name="status_empty_message">WhatsApp-ஐத் திறந்து சில status-களைப் பாருங்கள், பிறகு திரும்ப வாருங்கள். அவை தானாகவே இங்கே தோன்றும்.</string>
     <string name="status_open_whatsapp">WhatsApp-ஐத் திற</string>
-    <string name="status_saved_toast">உங்கள் SaveVibe album-ல் சேமிக்கப்பட்டது</string>
+    <string name="status_saved_toast">உங்கள் ASaveVibe album-ல் சேமிக்கப்பட்டது</string>
     <string name="status_save_failed">Status-ஐச் சேமிக்க முடியவில்லை</string>
     <string name="status_switcher_label">%1$s  %2$d</string>
     <string name="status_also_show_source">%1$s status-களையும் காட்டு</string>
@@ -126,7 +126,7 @@
     <string name="preview_save_to_gallery">Gallery-யில் சேமி</string>
 
     <!-- Splash -->
-    <string name="splash_logo_description">SaveVibe logo</string>
+    <string name="splash_logo_description">ASaveVibe logo</string>
     <string name="splash_tagline">Status, Reels &amp; Story Saver</string>
     <string name="splash_footer">சேமி • Repost • பகிர்</string>
 
@@ -139,7 +139,7 @@
         <item quantity="one">அடுத்த %1$d நிமிடம் விளம்பரம் இல்லை. மகிழுங்கள்!</item>
         <item quantity="other">அடுத்த %1$d நிமிடங்கள் விளம்பரம் இல்லை. மகிழுங்கள்!</item>
     </plurals>
-    <string name="adfree_offer_message">ஒரு சிறிய video பாருங்கள், அடுத்த ஒரு மணி நேரம் SaveVibe-ல் விளம்பரமே இருக்காது.</string>
+    <string name="adfree_offer_message">ஒரு சிறிய video பாருங்கள், அடுத்த ஒரு மணி நேரம் ASaveVibe-ல் விளம்பரமே இருக்காது.</string>
     <string name="adfree_watch_video">Video பார்</string>
     <string name="adfree_privacy_settings">விளம்பர privacy அமைப்புகள்</string>
     <string name="adfree_great">சூப்பர்</string>
@@ -196,12 +196,12 @@
     <string name="ig_howto_copy_title">Link-ஐ copy செய்</string>
     <string name="ig_howto_copy_text">Instagram-ல் ••• அல்லது Share → Copy link tap செய்யுங்கள்</string>
     <string name="ig_howto_back_title">திரும்ப வாருங்கள்</string>
-    <string name="ig_howto_back_text">Link தானாகவே நிரப்பப்படும் — அல்லது Share → SaveVibe பயன்படுத்துங்கள்</string>
+    <string name="ig_howto_back_text">Link தானாகவே நிரப்பப்படும் — அல்லது Share → ASaveVibe பயன்படுத்துங்கள்</string>
     <string name="ig_howto_download_text">Carousel-ன் எல்லா photo &amp; video-வும் உங்கள் Gallery-யில் சேமிக்கப்படும்</string>
     <string name="ig_howto_private_title">Stories &amp; private posts</string>
     <string name="ig_howto_private_logged_in">மேலே Stories-ல் ஒருவரை tap செய்யுங்கள், அல்லது எந்த username-ஐயும் தேடுங்கள்</string>
     <string name="ig_howto_private_logged_out">அவற்றைத் திறக்க மேலே Login tap செய்யுங்கள்</string>
-    <string name="ig_disclaimer">SaveVibe-க்கும் Instagram அல்லது Meta-வுக்கும் தொடர்பு இல்லை. உங்களுக்குச் சொந்தமான அல்லது சேமிக்க அனுமதி உள்ள content-ஐ மட்டும் download செய்யுங்கள்.</string>
+    <string name="ig_disclaimer">ASaveVibe-க்கும் Instagram அல்லது Meta-வுக்கும் தொடர்பு இல்லை. உங்களுக்குச் சொந்தமான அல்லது சேமிக்க அனுமதி உள்ள content-ஐ மட்டும் download செய்யுங்கள்.</string>
     <string name="ig_error_paste_link">Instagram அல்லது video link-ஐ paste செய்யுங்கள்</string>
     <string name="ig_error_invalid_url">தவறான URL. சரியான link-ஐ உள்ளிடுங்கள்</string>
     <string name="ig_error_youtube">YouTube download ஆதரிக்கப்படவில்லை. Instagram link அல்லது நேரடி video link-ஐ முயற்சியுங்கள்.</string>
@@ -298,7 +298,7 @@
     <string name="browser_step_open">ஒரு site-ஐத் திறங்கள் அல்லது video link-ஐ paste செய்யுங்கள்</string>
     <string name="browser_step_play">வேண்டிய video-வை play செய்யுங்கள்</string>
     <string name="browser_step_save">⬇ tap செய்து தேர்ந்தெடுங்கள் — gallery-யில் சேமிக்கப்படும்</string>
-    <string name="browser_disclaimer">SaveVibe-க்கும் இந்த sites எதற்கும் தொடர்பு இல்லை. YouTube ஆதரிக்கப்படவில்லை. உங்களுக்குச் சொந்தமான அல்லது சேமிக்க அனுமதி உள்ள videos-ஐ மட்டும் download செய்யுங்கள்.</string>
+    <string name="browser_disclaimer">ASaveVibe-க்கும் இந்த sites எதற்கும் தொடர்பு இல்லை. YouTube ஆதரிக்கப்படவில்லை. உங்களுக்குச் சொந்தமான அல்லது சேமிக்க அனுமதி உள்ள videos-ஐ மட்டும் download செய்யுங்கள்.</string>
     <string name="browser_youtube_blocked">YouTube ஆதரிக்கப்படவில்லை. Facebook, X, TikTok, Vimeo போன்றவற்றை முயற்சியுங்கள்.</string>
     <string name="browser_download_failed">Download தோல்வியடைந்தது</string>
     <string name="browser_error_drm">இந்த video DRM-ஆல் பாதுகாக்கப்பட்டது, download செய்ய முடியாது.</string>

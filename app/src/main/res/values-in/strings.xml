@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="share_target_label">Download pakai SaveVibe</string>
-    <string name="not_affiliated">SaveVibe tidak berafiliasi dengan WhatsApp, Instagram, atau Meta.</string>
+    <string name="share_target_label">Download pakai ASaveVibe</string>
+    <string name="not_affiliated">ASaveVibe tidak berafiliasi dengan WhatsApp, Instagram, atau Meta.</string>
     <string name="status_wrong_folder">Itu bukan folder status WhatsApp. Ketuk \"Gunakan folder ini\" tanpa pindah folder.</string>
 
     <string name="onboarding_skip">Lewati</string>
@@ -11,11 +11,11 @@
     <string name="onboarding_status_title">Simpan status\nfavoritmu</string>
     <string name="onboarding_status_description">Foto dan video dari status WhatsApp yang sudah kamu lihat — tersimpan ke galeri dengan sekali ketuk.</string>
     <string name="onboarding_reels_title">Reels, video\n&amp; story</string>
-    <string name="onboarding_reels_description">Salin link atau ketuk Bagikan → SaveVibe. Foto dan video tersimpan dalam HD, siap diunggah ulang.</string>
+    <string name="onboarding_reels_description">Salin link atau ketuk Bagikan → ASaveVibe. Foto dan video tersimpan dalam HD, siap diunggah ulang.</string>
     <string name="onboarding_setup_title">Buka akses status</string>
     <string name="onboarding_setup_description">Satu langkah cepat: Android menyimpan status yang sudah kamu lihat di folder WhatsApp pribadi. Izinkan akses sekali saja — cuma 5 detik.</string>
     <string name="onboarding_setup_done_title">Semua siap!</string>
-    <string name="onboarding_setup_done_description">Status yang kamu lihat di WhatsApp sekarang otomatis muncul di SaveVibe.</string>
+    <string name="onboarding_setup_done_description">Status yang kamu lihat di WhatsApp sekarang otomatis muncul di ASaveVibe.</string>
     <string name="onboarding_setup_no_whatsapp">WhatsApp belum terpasang di HP ini. Kamu tetap bisa simpan Reels dan video dari link apa pun.</string>
     <string name="onboarding_allow_source">Izinkan %1$s</string>
     <string name="onboarding_source_unlocked">%1$s terbuka</string>
@@ -28,13 +28,13 @@
     <string name="settings_more">Opsi lainnya</string>
     <string name="settings_new_status_alerts">Notifikasi status baru</string>
     <string name="settings_auto_save">Simpan otomatis status baru</string>
-    <string name="settings_share_app">Bagikan SaveVibe</string>
-    <string name="settings_rate_app">Beri nilai SaveVibe</string>
+    <string name="settings_share_app">Bagikan ASaveVibe</string>
+    <string name="settings_rate_app">Beri nilai ASaveVibe</string>
     <string name="settings_language">Bahasa aplikasi</string>
     <string name="settings_privacy_policy">Kebijakan privasi</string>
 
-    <string name="share_app_title">Bagikan SaveVibe</string>
-    <string name="share_app_message">Aku simpan status WhatsApp dan Reels pakai SaveVibe — gratis dan cepat: %1$s</string>
+    <string name="share_app_title">Bagikan ASaveVibe</string>
+    <string name="share_app_message">Aku simpan status WhatsApp dan Reels pakai ASaveVibe — gratis dan cepat: %1$s</string>
     <string name="share_reward_granted">Makasih sudah berbagi! Bebas iklan selama 24 jam ke depan 🎉</string>
 
     <string name="notification_channel_name">Status baru</string>
@@ -47,7 +47,7 @@
         <item quantity="other">%1$d status baru tersimpan ke galeri</item>
     </plurals>
 
-    <string name="widget_label">Status SaveVibe</string>
+    <string name="widget_label">Status ASaveVibe</string>
     <string name="widget_description">Lihat berapa status baru yang menunggu</string>
     <string name="widget_subtitle">Ketuk untuk lihat &amp; simpan</string>
     <string name="widget_no_new_statuses">Belum ada status baru</string>
@@ -86,7 +86,7 @@
     <string name="status_empty_videos_title">Belum ada status video</string>
     <string name="status_empty_message">Buka WhatsApp, tonton beberapa status, lalu kembali ke sini. Statusnya akan muncul otomatis.</string>
     <string name="status_open_whatsapp">Buka WhatsApp</string>
-    <string name="status_saved_toast">Tersimpan di album SaveVibe</string>
+    <string name="status_saved_toast">Tersimpan di album ASaveVibe</string>
     <string name="status_save_failed">Gagal menyimpan status</string>
     <string name="status_switcher_label">%1$s  %2$d</string>
     <string name="status_also_show_source">Tampilkan juga status %1$s</string>
@@ -110,7 +110,7 @@
     <string name="preview_position">%1$d / %2$d</string>
     <string name="preview_save_to_gallery">Simpan ke Galeri</string>
 
-    <string name="splash_logo_description">Logo SaveVibe</string>
+    <string name="splash_logo_description">Logo ASaveVibe</string>
     <string name="splash_tagline">Simpan Status, Reels &amp; Story</string>
     <string name="splash_footer">Simpan • Unggah ulang • Bagikan</string>
 
@@ -121,7 +121,7 @@
     <plurals name="adfree_minutes_left">
         <item quantity="other">Tanpa iklan selama %1$d menit ke depan. Selamat menikmati!</item>
     </plurals>
-    <string name="adfree_offer_message">Tonton satu video singkat dan SaveVibe tidak menampilkan iklan sama sekali selama satu jam.</string>
+    <string name="adfree_offer_message">Tonton satu video singkat dan ASaveVibe tidak menampilkan iklan sama sekali selama satu jam.</string>
     <string name="adfree_watch_video">Tonton video</string>
     <string name="adfree_privacy_settings">Setelan privasi iklan</string>
     <string name="adfree_great">Oke</string>
@@ -175,12 +175,12 @@
     <string name="ig_howto_copy_title">Salin link</string>
     <string name="ig_howto_copy_text">Di Instagram, ketuk ••• atau Bagikan → Salin link</string>
     <string name="ig_howto_back_title">Kembali ke sini</string>
-    <string name="ig_howto_back_text">Link terisi otomatis — atau pakai Bagikan → SaveVibe</string>
+    <string name="ig_howto_back_text">Link terisi otomatis — atau pakai Bagikan → ASaveVibe</string>
     <string name="ig_howto_download_text">Semua foto &amp; video di carousel tersimpan ke Galeri</string>
     <string name="ig_howto_private_title">Story &amp; postingan privat</string>
     <string name="ig_howto_private_logged_in">Ketuk seseorang di Story di atas, atau cari username apa saja</string>
     <string name="ig_howto_private_logged_out">Ketuk Masuk di atas untuk membukanya</string>
-    <string name="ig_disclaimer">SaveVibe tidak berafiliasi dengan Instagram atau Meta. Hanya download konten milikmu atau yang kamu punya izin untuk disimpan.</string>
+    <string name="ig_disclaimer">ASaveVibe tidak berafiliasi dengan Instagram atau Meta. Hanya download konten milikmu atau yang kamu punya izin untuk disimpan.</string>
     <string name="ig_error_paste_link">Tempel link Instagram atau link video</string>
     <string name="ig_error_invalid_url">URL tidak valid. Masukkan link yang benar</string>
     <string name="ig_error_youtube">Download YouTube tidak didukung. Coba link Instagram atau link video langsung.</string>
@@ -274,7 +274,7 @@
     <string name="browser_step_open">Buka situs atau tempel link video</string>
     <string name="browser_step_play">Putar video yang kamu mau</string>
     <string name="browser_step_save">Ketuk ⬇ dan pilih — langsung tersimpan ke galeri</string>
-    <string name="browser_disclaimer">SaveVibe tidak berafiliasi dengan situs-situs ini. YouTube tidak didukung. Hanya download video milikmu atau yang kamu punya izin untuk disimpan.</string>
+    <string name="browser_disclaimer">ASaveVibe tidak berafiliasi dengan situs-situs ini. YouTube tidak didukung. Hanya download video milikmu atau yang kamu punya izin untuk disimpan.</string>
     <string name="browser_youtube_blocked">YouTube tidak didukung. Coba Facebook, X, TikTok, Vimeo, dan lainnya.</string>
     <string name="browser_download_failed">Download gagal</string>
     <string name="browser_error_drm">Video ini dilindungi DRM dan tidak bisa didownload.</string>

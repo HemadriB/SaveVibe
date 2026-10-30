@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Android 12+ system splash: icon pink with the SaveVibe logo -->
+    <!-- Android 12+ system splash: icon pink with the ASaveVibe logo -->
     <style name="Theme.StatusHub" parent="android:Theme.Material.Light.NoActionBar">
         <item name="android:windowBackground">@color/brand_launch</item>
         <item name="android:windowSplashScreenBackground">@color/brand_launch</item>
