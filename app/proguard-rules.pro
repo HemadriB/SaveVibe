@@ -20,6 +20,6 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 # Instagram downloader: JS bridge methods are called from WebView JavaScript by name
--keepclassmembers class com.hemadri.statushub.instagram.InstagramClient$Bridge {
+-keepclassmembers class com.statushub.instagram.InstagramClient$Bridge {
     @android.webkit.JavascriptInterface <methods>;
 }

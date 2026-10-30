@@ -36,7 +36,7 @@ val keystoreProperties = Properties().apply {
 }
 
 android {
-    namespace = "com.hemadri.statushub"
+    namespace = "com.statushub"
     compileSdk {
         version = release(36)
     }
