@@ -6,7 +6,7 @@ plugins {
     alias(libs.plugins.kotlin.compose)
 }
 
-val appId = "com.sv.savevibe"
+val appId = "com.statushub"
 
 // Firebase activates only when google-services.json is registered for this app id,
 // otherwise the google-services plugin would fail the build.
