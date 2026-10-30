@@ -122,14 +122,12 @@ private fun bind(view: NativeAdView, ad: NativeAd) {
 
 /**
  * Anchored adaptive banner (fills the screen width; earns more than the fixed 320x50 banner).
- * Hidden while the ad-free hour is active and until the user's first save.
+ * Always visible once the SDK is initialized — not gated by ad-free or first-save.
  */
 @Composable
 fun AdaptiveBanner(modifier: Modifier = Modifier, withNavigationBarPadding: Boolean = false) {
     val ready by AdsManager.isReady.collectAsStateWithLifecycle()
-    val adFree by AdsManager.adFree.collectAsStateWithLifecycle()
-    val hasSaved by AdsManager.hasSaved.collectAsStateWithLifecycle()
-    if (!ready || adFree || !hasSaved) return
+    if (!ready) return
     val widthDp = LocalConfiguration.current.screenWidthDp
     AndroidView(
         modifier = modifier
